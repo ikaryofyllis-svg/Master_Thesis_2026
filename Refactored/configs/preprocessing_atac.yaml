@@ -1,0 +1,14 @@
+atac_preprocessing:
+  use_gex_only_false: true
+  keep_feature_type: "Peaks"
+
+qc:
+  min_peaks_per_cell: 1000
+  max_counts_per_cell: 60000
+  min_cells_per_peak: 20
+
+outputs:
+  atac_qc_table_before_filtering: "reports/tables/atac_qc_summary_before_filtering.csv"
+  atac_qc_quantiles: "reports/tables/atac_qc_quantiles.csv"
+  atac_filtering_summary: "reports/tables/atac_filtering_summary.csv"
+  atac_filtered_h5ad: "data/processed/atac/pbmc_atac_filtered.h5ad"

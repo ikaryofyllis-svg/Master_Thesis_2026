@@ -1,0 +1,14 @@
+raw_inputs:
+  rna_10x_h5: "../data/raw/pbmc_rna_10k_v3/pbmc_10k_v3_filtered_feature_bc_matrix.h5"
+
+  atac_10x_h5: "../data/raw/pbmc_atac_10k/atac_pbmc_10k_nextgem_filtered_peak_bc_matrix.h5"
+  atac_fragments: "../data/raw/pbmc_atac_10k/atac_pbmc_10k_nextgem_fragments.tsv.gz"
+  atac_fragments_index: "../data/raw/pbmc_atac_10k/atac_pbmc_10k_nextgem_fragments.tsv.gz.tbi"
+  atac_peaks_bed: "../data/raw/pbmc_atac_10k/atac_pbmc_10k_nextgem_peaks.bed"
+  atac_peak_annotation: "../data/raw/pbmc_atac_10k/atac_pbmc_10k_nextgem_peak_annotation.tsv"
+  atac_peak_motif_mapping: "../data/raw/pbmc_atac_10k/atac_pbmc_10k_nextgem_peak_motif_mapping.bed"
+
+outputs:
+  raw_rna_h5ad: "data/processed/rna/pbmc_rna_raw.h5ad"
+  raw_atac_h5ad: "data/processed/atac/pbmc_atac_raw.h5ad"
+  file_check_table: "reports/tables/raw_input_file_check.csv"

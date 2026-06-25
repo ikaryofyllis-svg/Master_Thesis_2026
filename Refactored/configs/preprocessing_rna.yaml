@@ -1,0 +1,28 @@
+rna_preprocessing:
+  min_genes_per_cell: 200
+  min_cells_per_gene: 3
+  max_pct_mito: 15
+  max_total_counts: 40000
+
+normalization:
+  target_sum: 10000
+  log1p: true
+
+highly_variable_genes:
+  n_top_genes: 3000
+  flavor: "seurat"
+
+dimensionality_reduction:
+  scale_max_value: 10
+  pca_solver: "arpack"
+  n_neighbors: 15
+  n_pcs: 30
+  leiden_resolution: 0.6
+  leiden_key: "leiden_0_6"
+
+outputs:
+  rna_qc_table: "reports/tables/rna_qc_summary.csv"
+  rna_filtered_h5ad: "data/processed/rna/pbmc_rna_filtered.h5ad"
+  rna_hvg_h5ad: "data/processed/rna/pbmc_rna_hvg.h5ad"
+  rna_clustered_h5ad: "data/processed/rna/pbmc_rna_clustered.h5ad"
+  rna_umap_clusters: "reports/figures/rna/pbmc_rna_umap_leiden_0_6.png"

@@ -1,0 +1,11 @@
+Raw RNA-seq data downloaded from:
+
+GEO accession: GSE123456
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE123456
+
+Downloaded on: 2026-02-01
+
+Stored locally at:
+data/raw/
+
+Not tracked in Git.

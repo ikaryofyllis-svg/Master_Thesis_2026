@@ -1,0 +1,53 @@
+annotation:
+  dataset_name: "pbmc_rna"
+  organism: "human"
+  biological_domain: "PBMC / immune"
+  method: "celltypist"
+
+  inputs:
+    filtered_h5ad: "data/processed/rna/pbmc_rna_filtered.h5ad"
+    clustered_h5ad: "data/processed/rna/pbmc_rna_clustered.h5ad"
+    cluster_key: "leiden_0_6"
+
+  celltypist:
+    model_name: "Immune_All_Low.pkl"
+    majority_voting: true
+    label_column_preference: "majority_voting"
+    normalize_total_target_sum: 10000
+    log1p: true
+
+  external_predictions_csv:
+    csv_path: ""
+    barcode_col: "cell_barcode"
+    label_col: "predicted_label"
+    confidence_col: ""
+    notes: >
+      Use this mode for annotations from Azimuth, SingleR, scANVI,
+      manual atlas mapping, or any external model.
+
+  existing_obs_column:
+    h5ad_path: ""
+    label_col: ""
+    confidence_col: ""
+    notes: >
+      Use this mode if annotation labels are already stored inside
+      an AnnData obs column.
+
+  cluster_aggregation:
+    high_consensus_threshold: 0.80
+    medium_consensus_threshold: 0.60
+    mixed_second_label_threshold: 0.25
+    small_cluster_n_cells: 100
+
+  outputs:
+    annotated_h5ad: "data/processed/rna/pbmc_rna_celltypist_annotated.h5ad"
+
+    cell_level_predictions: "reports/tables/annotation/rna_reference_cell_level_predictions.csv"
+    candidate_cluster_annotations: "reports/tables/annotation/rna_reference_candidate_cluster_annotations.csv"
+    label_count_table: "reports/tables/annotation/rna_reference_label_counts_by_leiden.csv"
+    label_fraction_table: "reports/tables/annotation/rna_reference_label_fractions_by_leiden.csv"
+
+    umap_reference_labels: "reports/figures/annotation/pbmc_rna_umap_reference_labels.png"
+    umap_leiden_reference_review: "reports/figures/annotation/pbmc_rna_umap_leiden_reference_review.png"
+
+    manifest: "reports/manifests/step03B_reference_based_rna_annotation_manifest.json"

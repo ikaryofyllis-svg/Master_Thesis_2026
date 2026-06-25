@@ -1,0 +1,29 @@
+run:
+  run_id: gnn_edge_model_v1
+  seed: 42
+
+inputs:
+  candidate_edges: "../data/processed/grn_per_cell_type/step47R_all_cell_type_peak_level_candidate_edges.csv"
+  evidence_based_edges: "../data/processed/final_grn_per_cell_type/step49R_final_per_cell_type_grn_edges.csv"
+
+outputs:
+  gnn_dir: "data/processed/gnn"
+  model_dir: "models/gnn"
+  table_dir: "reports/tables"
+  figure_dir: "reports/figures/gnn"
+
+labeling:
+  positive_source: evidence_based_baseline
+  shuffled_negatives_per_positive: 1
+
+model:
+  train_tabular_model: true
+  train_gnn_refined_model: true
+  max_epochs: 250
+  hidden_dim: 64
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  patience: 30
+
+interpretation_note: >
+  Metrics evaluate agreement with pseudo-labels, not external biological ground truth.

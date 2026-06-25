@@ -1,0 +1,19 @@
+run:
+  run_id: tf_biological_prioritization_v1
+
+inputs:
+  gnn_refined_edges: "data/processed/gnn/pbmc_grn_gnn_refined_edges_high_confidence.csv"
+  evidence_based_edges: "../data/processed/final_grn_per_cell_type/step49R_final_per_cell_type_grn_edges.csv"
+
+outputs:
+  prioritization_dir: "data/processed/prioritization"
+  table_dir: "reports/tables"
+  figure_dir: "reports/figures/prioritization"
+
+scoring:
+  use_tf_specificity_score: true
+  use_broad_motif_penalty: true
+  use_target_module_score: true
+
+interpretation_note: >
+  This layer is for TF-level biological prioritization because edge-level confidence refinement does not fully remove broad motif TF artifacts.

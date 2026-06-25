@@ -1,0 +1,105 @@
+step: "03A"
+description: "RNA informed marker-based annotation evidence for selected Step 02B clusters"
+
+input:
+  rna_clustered_h5ad: "data/processed/rna/pbmc_rna_clustered.h5ad"
+
+cluster_key_source: "preprocessing_rna.yaml"
+
+marker_genes:
+  T_cells_general:
+    - "CD3D"
+    - "CD3E"
+    - "CD3G"
+    - "TRAC"
+
+  CD4_T_cells:
+    - "CD4"
+    - "IL7R"
+    - "CCR7"
+    - "LTB"
+    - "TCF7"
+    - "LEF1"
+
+  CD8_T_cells:
+    - "CD8A"
+    - "CD8B"
+    - "NKG7"
+    - "GZMK"
+    - "CCL5"
+
+  NK_cells:
+    - "NKG7"
+    - "GNLY"
+    - "PRF1"
+    - "KLRD1"
+    - "FCGR3A"
+
+  B_cells:
+    - "MS4A1"
+    - "CD79A"
+    - "CD79B"
+    - "BANK1"
+    - "CD74"
+
+  Plasma_cells:
+    - "MZB1"
+    - "JCHAIN"
+    - "XBP1"
+    - "IGHG1"
+
+  Monocytes_CD14:
+    - "LYZ"
+    - "S100A8"
+    - "S100A9"
+    - "FCN1"
+    - "CD14"
+    - "CTSS"
+
+  Monocytes_FCGR3A:
+    - "FCGR3A"
+    - "MS4A7"
+    - "LST1"
+    - "AIF1"
+
+  Dendritic_cells:
+    - "FCER1A"
+    - "CST3"
+    - "CLEC10A"
+    - "CD1C"
+
+  pDC:
+    - "GZMB"
+    - "IRF7"
+    - "IL3RA"
+    - "TCF4"
+
+  Platelets:
+    - "PPBP"
+    - "PF4"
+    - "NRGN"
+    - "SDPR"
+
+  Cycling_cells:
+    - "MKI67"
+    - "TOP2A"
+    - "STMN1"
+
+plotting:
+  use_raw: true
+  dotplot_standard_scale: "var"
+  umap_marker_batch_size: 12
+  dpi: 300
+  display_figures: true
+
+outputs:
+  marker_availability_table: "reports/tables/rna/rna_marker_gene_availability.csv"
+  marker_mean_expression_table: "reports/tables/rna/rna_cluster_marker_mean_expression.csv"
+  marker_pct_expressing_table: "reports/tables/rna/rna_cluster_marker_pct_expressing.csv"
+  annotation_template_table: "reports/tables/rna/rna_informed_annotation_template.csv"
+  cluster_sizes_table: "reports/tables/rna/rna_step03A_cluster_sizes.csv"
+
+  marker_dotplot_dir: "reports/figures/rna/annotation"
+  marker_umaps_dir: "reports/figures/rna/annotation/marker_umaps"
+
+  manifest: "reports/manifests/step03A_rna_informed_annotation_manifest.json"

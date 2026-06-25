@@ -1,0 +1,109 @@
+cluster_key: "leiden_0_6"
+
+marker_genes:
+  T_cells:
+    - "CD3D"
+    - "CD3E"
+
+  CD4_T:
+    - "CD4"
+    - "IL7R"
+
+  CD8_T:
+    - "CD8A"
+    - "CD8B"
+
+  Naive_T:
+    - "CCR7"
+    - "LEF1"
+    - "TCF7"
+
+  Cytotoxic_effector:
+    - "NKG7"
+    - "GZMB"
+    - "PRF1"
+    - "GNLY"
+    - "CCL5"
+
+  CD14_Monocytes:
+    - "CD14"
+    - "LYZ"
+    - "S100A8"
+    - "S100A9"
+    - "FCN1"
+    - "MS4A7"
+
+  B_cells:
+    - "MS4A1"
+    - "CD79A"
+
+  NK_cells:
+    - "KLRD1"
+    - "NCR1"
+
+  Dendritic_APC:
+    - "FCER1A"
+    - "CST3"
+
+cluster_to_cell_type_detailed:
+  "0": "CD14_Monocytes_c0"
+  "1": "CD4_Memory_c1"
+  "2": "CD4_Naive_c2"
+  "3": "B_cells_c3"
+  "4": "CD14_Monocytes_c4"
+  "5": "NK_or_Cytotoxic_c5"
+  "6": "CD8_Effector_c6"
+  "7": "B_cells_c7"
+  "8": "CD8_Effector_c8"
+  "9": "Monocyte_related_c9"
+  "10": "CD8_Naive_c10"
+  "11": "Ambiguous_c11"
+  "12": "Cytotoxic_c12"
+  "13": "Dendritic_APC_c13"
+  "14": "CD14_Monocytes_c14"
+  "15": "GZMB_high_c15"
+  "16": "Ambiguous_c16"
+  "17": "CD4_Naive_c17"
+  "18": "T_cells_c18"
+  "19": "Dendritic_APC_c19"
+
+cluster_to_cell_type_broad:
+  "0": "CD14_Monocytes"
+  "1": "CD4_Memory"
+  "2": "CD4_Naive"
+  "3": "B_cells"
+  "4": "CD14_Monocytes"
+  "5": "NK_or_Cytotoxic"
+  "6": "CD8_Effector"
+  "7": "B_cells"
+  "8": "CD8_Effector"
+  "9": "Monocyte_related"
+  "10": "CD8_Naive"
+  "11": "Ambiguous"
+  "12": "Cytotoxic"
+  "13": "Dendritic_APC"
+  "14": "CD14_Monocytes"
+  "15": "GZMB_high"
+  "16": "Ambiguous"
+  "17": "CD4_Naive"
+  "18": "T_cells"
+  "19": "Dendritic_APC"
+
+scmultiomegrn_5type_mapping:
+  CD14_Monocytes: "CD14+ Monocytes"
+  CD4_Memory: "CD4.Memory"
+  CD4_Naive: "CD4.Naive"
+  CD8_Effector: "CD8.effector"
+  CD8_Naive: "CD8.Naive"
+
+outputs:
+  marker_dotplot: "reports/figures/rna/pbmc_rna_marker_dotplot_by_cluster.png"
+  marker_mean_expression_table: "reports/tables/rna_mean_marker_expression_by_cluster.csv"
+  cluster_annotation_summary: "reports/tables/rna_cluster_annotation_summary.csv"
+  cell_type_counts: "reports/tables/rna_cell_type_counts.csv"
+  annotated_rna_h5ad: "data/processed/rna/pbmc_rna_annotated_final.h5ad"
+  annotated_umap_broad: "reports/figures/rna/pbmc_rna_umap_cell_type_broad.png"
+  annotated_umap_detailed: "reports/figures/rna/pbmc_rna_umap_cell_type_detailed.png"
+  rna_5types_h5ad: "data/processed/rna/pbmc_rna_scmultiomegrn_5types.h5ad"
+  rna_5types_counts: "reports/tables/rna_scmultiomegrn_5types_cell_counts.csv"
+  rna_5types_umap: "reports/figures/rna/pbmc_rna_umap_scmultiomegrn_5types.png"

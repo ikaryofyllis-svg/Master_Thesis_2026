@@ -1,0 +1,99 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter / IDE
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.spyproject/
+.spyderproject/
+.spyderworkspace/
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+*.egg-info/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+token*
+api_key*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large bioinformatics files
+*.h5ad
+*.h5
+*.hdf5
+*.loom
+*.mtx
+*.mtx.gz
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.sam
+*.vcf
+*.vcf.gz
+*.bed
+*.bed.gz
+*.bigwig
+*.bw
+*.cram
+*.crai
+
+# Project data folders
+Refactored/projects/*/data/raw/
+Refactored/projects/*/data/interim/
+Refactored/projects/*/data/processed/
+Refactored/projects/*/data/external/
+Refactored/projects/*/reports/
+Refactored/projects/*/manifests/
+Refactored/projects/*/outputs/
+
+# Temporary / backups
+*.log
+*.tmp
+*.bak
+*.backup
+*.old
+
+# Optional heavy generated figures
+# Refactored/projects/*/reports/figures/
+# ============================================================
+# Old / duplicate generated outputs outside active project
+# ============================================================
+data/processed/
+Refactored/reports/
+
+# ============================================================
+# Generated figures can be large and reproducible
+# Keep tables/manifests in git; keep figures local unless selected manually
+# ============================================================
+Refactored/projects/*/reports/figures/
+
+# ============================================================
+# Config backups / accidental text files
+# ============================================================
+*.backup_*.yaml
+*.before_step*.yaml
+Refactored/scripts/New Έγγραφο κειμένου.txt

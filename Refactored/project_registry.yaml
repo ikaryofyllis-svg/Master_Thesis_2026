@@ -1,0 +1,11 @@
+active_project_id: pbmc_10k_v1
+
+projects:
+  pbmc_10k_v1:
+    project_name: PBMC 10k RNA/ATAC GRN thesis project
+    organism: human
+    domain: PBMC / immune
+    description: >
+      Refactored PBMC RNA/ATAC project for cell-type annotation,
+      pseudo-bulk integration, GRN inference, and GNN refinement.
+    project_root: projects/pbmc_10k_v1  # active project workspace

@@ -1,0 +1,17 @@
+project:
+  name: pbmc_grn_msc_thesis_refactored
+  legacy_project_root: "C:/Users/jkary/Desktop/bioinformatics/MSc thesis/Msc_Thesis_Project"
+  refactor_root: "C:/Users/jkary/Desktop/bioinformatics/MSc thesis/Msc_Thesis_Project/Refactored"
+  seed: 42
+
+paths:
+  legacy_raw_data: "../data/raw"
+  legacy_processed_data: "../data/processed"
+  refactored_interim_data: "data/interim"
+  refactored_processed_data: "data/processed"
+  reports: "reports"
+  models: "models"
+
+notes:
+  - "This Refactored folder contains the cleaned pipeline."
+  - "The original MSc thesis project files are not modified."

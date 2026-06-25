@@ -1,0 +1,56 @@
+rna_preprocessing:
+  mito_prefix: MT-
+  min_genes_per_cell: 1000
+  min_cells_per_gene: 5
+  max_pct_mito: 16.0
+  max_total_counts: 35000.0
+normalization:
+  target_sum: 10000
+  log1p: true
+highly_variable_genes:
+  n_top_genes: 3000
+  flavor: seurat_v3
+dimensionality_reduction:
+  scale_max_value: 10
+  pca_solver: arpack
+  n_comps: 50
+  n_neighbors: 20
+  n_pcs: 30
+  leiden_resolution: 0.4
+  leiden_key: leiden_0_4
+  random_state: 0
+outputs:
+  rna_qc_table: reports/tables/rna_qc_summary.csv
+  rna_filtered_h5ad: data/processed/rna/pbmc_rna_filtered.h5ad
+  rna_hvg_h5ad: data/processed/rna/pbmc_rna_hvg.h5ad
+  rna_clustered_h5ad: data/processed/rna/pbmc_rna_clustered.h5ad
+  rna_umap_clusters: reports/figures/rna/pbmc_rna_umap_leiden_0_6.png
+  rna_filtering_summary: reports/tables/rna/rna_filtering_summary.csv
+  rna_hvg_summary: reports/tables/rna/rna_hvg_summary.csv
+  rna_cluster_summary: reports/tables/rna/rna_cluster_summary.csv
+  manifest: reports/manifests/step02_preprocess_rna_manifest.json
+  rna_pca_elbow: reports/figures/02C_rna_pca_neighbors_leiden/rna_pca_elbow_variance_ratio.png
+  rna_pca_variance_table: reports/tables/02C_rna_pca_neighbors_leiden/rna_pca_variance_table.csv
+  rna_pca_qc_plot: reports/figures/02C_rna_pca_neighbors_leiden/rna_pca_qc_metrics.png
+  rna_umap_qc_plot: reports/figures/02C_rna_pca_neighbors_leiden/rna_umap_qc_metrics.png
+  rna_leiden_diagnostics: reports/tables/02C_rna_pca_neighbors_leiden/rna_leiden_resolution_diagnostics.csv
+  rna_umap_diagnostics_dir: reports/figures/02C_rna_pca_neighbors_leiden/umap_leiden_resolution_diagnostic
+qc_diagnostics:
+  quantiles:
+  - 0.01
+  - 0.05
+  - 0.1
+  - 0.25
+  - 0.5
+  - 0.75
+  - 0.9
+  - 0.95
+  - 0.99
+  outputs:
+    raw_qc_quantiles: reports/tables/rna/rna_qc_raw_quantiles.csv
+    raw_qc_summary: reports/tables/rna/rna_qc_raw_summary.csv
+    threshold_candidate_summary: reports/tables/rna/rna_qc_threshold_candidate_summary.csv
+    qc_violin_plot: reports/figures/rna/rna_qc_raw_violin.png
+    qc_histogram_plot: reports/figures/rna/rna_qc_raw_histograms.png
+    qc_counts_mito_scatter: reports/figures/rna/rna_qc_total_counts_vs_pct_mito.png
+    qc_counts_genes_scatter: reports/figures/rna/rna_qc_total_counts_vs_n_genes.png

@@ -1,0 +1,13 @@
+cell_types:
+  - "CD14+ Monocytes"
+  - "CD4.Memory"
+  - "CD4.Naive"
+  - "CD8.effector"
+  - "CD8.Naive"
+
+safe_cell_type_names:
+  "CD14+ Monocytes": "CD14plus_Monocytes"
+  "CD4.Memory": "CD4_Memory"
+  "CD4.Naive": "CD4_Naive"
+  "CD8.effector": "CD8_effector"
+  "CD8.Naive": "CD8_Naive"
