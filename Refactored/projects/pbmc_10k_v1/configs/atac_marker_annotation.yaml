@@ -1,0 +1,237 @@
+input:
+  gene_activity_h5ad: "data/processed/atac/pbmc_atac_gene_activity.h5ad"
+
+cluster:
+  key: "leiden_0_6"
+
+markers:
+  marker_sets:
+    T_cells:
+      - CD3D
+      - CD3E
+      - TRAC
+      - CD2
+      - IL32
+
+    CD4_T_cells_broad:
+      - CD4
+      - IL7R
+      - LTB
+      - CCR7
+      - TCF7
+
+    CD8_T_cells_broad:
+      - CD8A
+      - CD8B
+      - CCL5
+      - NKG7
+      - GZMK
+
+    CD4_Naive_T_cells:
+      - CD4
+      - CCR7
+      - SELL
+      - LEF1
+      - TCF7
+      - IL7R
+      - MAL
+
+    CD4_Memory_T_cells:
+      - CD4
+      - IL7R
+      - LTB
+      - CD40LG
+      - ANXA1
+      - AQP3
+      - S100A4
+      - GPR183
+
+    CD4_Central_Memory_T_cells:
+      - CD4
+      - CCR7
+      - SELL
+      - IL7R
+      - TCF7
+      - LTB
+
+    CD4_Effector_Memory_T_cells:
+      - CD4
+      - IL7R
+      - S100A4
+      - ANXA1
+      - GZMK
+      - CCL5
+      - CXCR3
+
+    CD8_Naive_T_cells:
+      - CD8A
+      - CD8B
+      - CCR7
+      - SELL
+      - LEF1
+      - TCF7
+      - IL7R
+
+    CD8_Effector_T_cells:
+      - CD8A
+      - CD8B
+      - NKG7
+      - GNLY
+      - GZMB
+      - PRF1
+      - CCL5
+      - CST7
+
+    CD8_GZMK_T_cells:
+      - CD8A
+      - CD8B
+      - GZMK
+      - CCL5
+      - NKG7
+      - CST7
+      - CXCR3
+
+    CD8_Cytotoxic_T_cells:
+      - CD8A
+      - CD8B
+      - NKG7
+      - GNLY
+      - GZMB
+      - GZMH
+      - PRF1
+      - CST7
+
+    NK_cells:
+      - NKG7
+      - GNLY
+      - KLRD1
+      - KLRF1
+      - FCGR3A
+      - PRF1
+      - GZMB
+      - CST7
+
+    B_cells_broad:
+      - MS4A1
+      - CD79A
+      - CD79B
+      - BANK1
+      - CD74
+      - HLA-DRA
+
+    B_Naive:
+      - MS4A1
+      - CD79A
+      - CD79B
+      - TCL1A
+      - IGHD
+      - IL4R
+      - FCER2
+      - BANK1
+
+    B_Memory:
+      - MS4A1
+      - CD79A
+      - CD79B
+      - CD27
+      - TNFRSF13B
+      - AIM2
+      - BANK1
+
+    B_Activated_or_Effector:
+      - MS4A1
+      - CD79A
+      - CD79B
+      - CD83
+      - CD69
+      - HLA-DRA
+      - HLA-DPB1
+      - TNFRSF13B
+
+    Plasmablasts:
+      - MZB1
+      - XBP1
+      - PRDM1
+      - JCHAIN
+      - SDC1
+      - IGHG1
+      - IGHA1
+
+    CD14_Monocytes:
+      - LYZ
+      - S100A8
+      - S100A9
+      - LST1
+      - FCN1
+      - CD14
+      - VCAN
+      - CTSS
+
+    FCGR3A_Monocytes:
+      - FCGR3A
+      - MS4A7
+      - LST1
+      - IFITM3
+      - LILRB1
+      - RHOC
+      - AIF1
+
+    Dendritic_APC:
+      - FCER1A
+      - CST3
+      - CLEC10A
+      - HLA-DRA
+      - HLA-DPB1
+      - CD74
+
+    cDC2:
+      - FCER1A
+      - CLEC10A
+      - CD1C
+      - CST3
+      - HLA-DRA
+
+    pDC:
+      - IL3RA
+      - GZMB
+      - IRF7
+      - TCF4
+      - CLEC4C
+      - LILRA4
+
+    Platelets:
+      - PPBP
+      - PF4
+      - NRGN
+      - GP9
+      - GNG11
+      - TUBB1
+
+scoring:
+  raw_layer_for_pct_positive: "raw_gene_activity_counts"
+  pct_positive_threshold: 0.0
+  module_score_prefix: "ga_score_"
+  n_top_suggested_labels: 5
+
+plots:
+  max_umap_markers: 24
+  cmap: "viridis"
+  dpi: 300
+  show: true
+
+outputs:
+  marker_availability: "reports/tables/atac/annotation/atac_gene_activity_marker_availability.csv"
+  marker_mean_by_cluster: "reports/tables/atac/annotation/atac_gene_activity_marker_mean_by_cluster.csv"
+  marker_pct_positive_by_cluster: "reports/tables/atac/annotation/atac_gene_activity_marker_pct_positive_by_cluster.csv"
+  marker_set_availability: "reports/tables/atac/annotation/atac_gene_activity_marker_set_availability.csv"
+  marker_module_score_by_cluster: "reports/tables/atac/annotation/atac_gene_activity_marker_module_score_by_cluster.csv"
+  cluster_annotation_suggestions: "reports/tables/atac/annotation/atac_cluster_annotation_suggestions_from_gene_activity.csv"
+
+  marker_dotplot: "reports/figures/atac/annotation/atac_gene_activity_marker_dotplot.png"
+  marker_umap: "reports/figures/atac/annotation/atac_gene_activity_marker_umap.png"
+  module_score_umap: "reports/figures/atac/annotation/atac_gene_activity_module_score_umap.png"
+  module_score_heatmap: "reports/figures/atac/annotation/atac_gene_activity_module_score_heatmap.png"
+  cluster_suggestion_umap: "reports/figures/atac/annotation/atac_umap_cluster_suggested_celltypes.png"
+  evidence_h5ad: "data/processed/atac/pbmc_atac_gene_activity_marker_evidence.h5ad"
+  manifest: "reports/manifests/step04D_scatac_marker_annotation_evidence_manifest.json"
+  

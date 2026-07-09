@@ -1,0 +1,2 @@
+rna_n_cells,atac_n_cells,multiome_n_cells,same_cell_count,same_barcode_set,same_barcode_order,rna_duplicate_barcodes,atac_duplicate_barcodes,multiome_duplicate_barcodes,pairing_confirmed
+11898,11898,11898,True,True,True,0,0,0,True

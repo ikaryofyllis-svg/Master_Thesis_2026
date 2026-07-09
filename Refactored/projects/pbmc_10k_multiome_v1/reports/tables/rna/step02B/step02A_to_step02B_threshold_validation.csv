@@ -1,0 +1,8 @@
+parameter,yaml_value,step02a_value,matches
+mito_prefix,MT-,MT-,True
+min_genes_per_cell,200,200,True
+min_cells_per_gene,5,5,True
+max_pct_mito,15.0,15.0,True
+max_total_counts,40000.0,40000.0,True
+doublet_score_threshold,0.17614745734803391,0.1761474573480339,True
+filter_predicted_doublets,True,True,True

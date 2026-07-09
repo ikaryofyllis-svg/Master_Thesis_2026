@@ -1,0 +1,82 @@
+rna_preprocessing:
+  mito_prefix: MT-
+  min_genes_per_cell: 200
+  min_cells_per_gene: 5
+  max_pct_mito: 15.0
+  max_total_counts: 40000.0
+doublet_detection:
+  enabled: true
+  method: scrublet
+  expected_doublet_rate: 0.06
+  sim_doublet_ratio: 2.0
+  n_prin_comps: 30
+  random_state: 0
+  score_threshold: 0.17614745734803391
+  filter_predicted_doublets: true
+normalization:
+  target_sum: 10000
+  log1p: true
+highly_variable_genes:
+  n_top_genes: 3000
+  flavor: seurat_v3
+dimensionality_reduction:
+  scale_max_value: 10
+  pca_solver: arpack
+  n_comps: 50
+  n_pcs: 30
+  n_neighbors: 20
+  leiden_resolution: 0.6
+  leiden_key: leiden_0_6
+  random_state: 0
+qc_diagnostics:
+  quantiles:
+  - 0.01
+  - 0.05
+  - 0.1
+  - 0.25
+  - 0.5
+  - 0.75
+  - 0.9
+  - 0.95
+  - 0.99
+  outputs:
+    raw_qc_summary: reports/tables/rna/step02A/raw_rna_qc_summary.csv
+    raw_qc_quantiles: reports/tables/rna/step02A/raw_rna_qc_quantiles.csv
+    threshold_candidate_summary: reports/tables/rna/step02A/rna_qc_threshold_candidate_summary.csv
+    selected_thresholds: reports/tables/rna/rna_selected_qc_thresholds.csv
+    qc_violin_plot: reports/figures/rna/step02A/rna_qc_violin.png
+    qc_histogram_plot: reports/figures/rna/step02A/rna_qc_histograms.png
+    qc_counts_mito_scatter: reports/figures/rna/step02A/rna_counts_vs_mito.png
+    qc_counts_genes_scatter: reports/figures/rna/step02A/rna_counts_vs_genes.png
+    doublet_scores_table: reports/tables/rna/step02A/rna_scrublet_scores.csv
+    doublet_summary: reports/tables/rna/step02A/rna_scrublet_summary.csv
+    doublet_score_quantiles: reports/tables/rna/step02A/rna_scrublet_score_quantiles.csv
+    doublet_score_histogram: reports/figures/rna/step02A/rna_scrublet_score_histogram.png
+    doublet_score_counts_scatter: reports/figures/rna/step02A/rna_scrublet_score_vs_counts.png
+    doublet_score_genes_scatter: reports/figures/rna/step02A/rna_scrublet_score_vs_genes.png
+    pairing_validation: reports/tables/rna/step02A/rna_qc_pairing_validation.csv
+    manifest: reports/manifests/step02A_paired_rna_qc_diagnostics_manifest.json
+outputs:
+  paired_rna_cell_filtered_h5ad: data/processed/rna/pbmc_multiome_rna_cell_filtered.h5ad
+  paired_atac_after_rna_qc_h5ad: data/processed/atac/pbmc_multiome_atac_after_rna_qc.h5ad
+  paired_multiome_after_rna_qc_h5ad: data/processed/multiome/pbmc_multiome_after_rna_qc.h5ad
+  rna_filtered_h5ad: data/processed/rna/pbmc_multiome_rna_filtered.h5ad
+  rna_hvg_h5ad: data/processed/rna/pbmc_multiome_rna_hvg.h5ad
+  rna_clustered_h5ad: data/processed/rna/pbmc_multiome_rna_clustered.h5ad
+  rna_qc_table: reports/tables/rna/step02B/rna_qc_before_after.csv
+  rna_filtering_summary: reports/tables/rna/step02B/rna_filtering_summary.csv
+  paired_filtering_summary: reports/tables/rna/step02B/paired_filtering_summary.csv
+  pairing_validation: reports/tables/rna/step02B/pairing_validation_after_rna_qc.csv
+  retained_cell_ids: reports/tables/rna/step02B/retained_cell_ids.csv
+  removed_cell_ids: reports/tables/rna/step02B/removed_cell_ids.csv
+  doublets_removed: reports/tables/rna/step02B/doublets_removed.csv
+  rna_hvg_summary: reports/tables/rna/step02B/rna_hvg_summary.csv
+  rna_cluster_summary: reports/tables/rna/step02B/rna_cluster_summary.csv
+  rna_pca_elbow: reports/figures/rna/step02B/rna_pca_elbow.png
+  rna_pca_variance_table: reports/tables/rna/step02B/rna_pca_variance.csv
+  rna_pca_qc_plot: reports/figures/rna/step02B/rna_pca_qc.png
+  rna_umap_qc_plot: reports/figures/rna/step02B/rna_umap_qc.png
+  rna_umap_clusters: reports/figures/rna/step02B/rna_umap_clusters.png
+  rna_leiden_diagnostics: reports/tables/rna/step02B/rna_leiden_diagnostics.csv
+  rna_umap_diagnostics_dir: reports/figures/rna/step02B/umap_diagnostics
+  manifest: reports/manifests/step02B_paired_rna_preprocessing_manifest.json

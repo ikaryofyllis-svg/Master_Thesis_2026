@@ -91,6 +91,7 @@ class ProjectPaths:
 
         self.processed_rna = self.processed / "rna"  # processed RNA h5ad files
         self.processed_atac = self.processed / "atac"  # processed ATAC files
+        self.processed_multiome = self.processed / "multiome"
         self.processed_integration = self.processed / "integration"  # pseudo-bulk integration outputs
         self.processed_grn = self.processed / "grn"  # candidate GRN outputs
         self.processed_gnn = self.processed / "gnn"  # GNN-ready outputs
@@ -199,6 +200,7 @@ class ProjectPaths:
             self.processed,
             self.processed_rna,
             self.processed_atac,
+            self.processed_multiome,
             self.processed_integration,
             self.processed_grn,
             self.processed_gnn,
@@ -259,6 +261,7 @@ class ProjectPaths:
             return path.resolve()  # absolute paths μένουν absolute
 
         return (self.project_root / path).resolve()  # relative paths λύνονται από active project root
+
 
     def resolve_refactor_path(self, path_string):
         """
@@ -340,6 +343,7 @@ class ProjectPaths:
             "processed": str(self.processed),
             "processed_rna": str(self.processed_rna),
             "processed_atac": str(self.processed_atac),
+            "processed_multiome": str(self.processed_multiome),
             "processed_integration": str(self.processed_integration),
             "processed_grn": str(self.processed_grn),
             "processed_gnn": str(self.processed_gnn),

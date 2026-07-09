@@ -1,14 +1,52 @@
-atac_preprocessing:
-  use_gex_only_false: true
-  keep_feature_type: "Peaks"
+# preprocessing_atac.yaml
+# Step 04B selected scATAC preprocessing configuration.
+
+input:
+  raw_atac_h5ad: "data/processed/atac/pbmc_atac_raw.h5ad"
 
 qc:
-  min_peaks_per_cell: 1000
+  min_peaks_per_cell: 2000
   max_counts_per_cell: 60000
+  max_peaks_per_cell: null
   min_cells_per_peak: 20
 
+tfidf:
+  binarize: true
+  scale_factor: 10000.0
+
+lsi:
+  n_components: 50
+  random_state: 42
+  exclude_first_component: true
+  lsi_start_component: 2
+  lsi_end_component: 50
+
+neighbors:
+  n_neighbors: 15
+  metric: "cosine"
+  use_rep: "X_lsi_2_50"
+
+umap:
+  random_state: 42
+
+clustering:
+  leiden_resolution: 0.6
+  leiden_key: "leiden_0_6"
+
 outputs:
-  atac_qc_table_before_filtering: "reports/tables/atac_qc_summary_before_filtering.csv"
-  atac_qc_quantiles: "reports/tables/atac_qc_quantiles.csv"
-  atac_filtering_summary: "reports/tables/atac_filtering_summary.csv"
+  atac_qc_table_before_filtering: "reports/tables/atac/atac_qc_summary_before_filtering.csv"
+  atac_qc_quantiles: "reports/tables/atac/atac_qc_quantiles_before_filtering.csv"
+
+  atac_qc_thresholds_used: "reports/tables/atac/atac_step04B_qc_thresholds_used.csv"
+  atac_filtering_summary: "reports/tables/atac/atac_filtering_summary.csv"
+  atac_lsi_variance_table: "reports/tables/atac/atac_lsi_variance_table.csv"
+  atac_cluster_summary: "reports/tables/atac/atac_cluster_summary.csv"
+
   atac_filtered_h5ad: "data/processed/atac/pbmc_atac_filtered.h5ad"
+  atac_lsi_h5ad: "data/processed/atac/pbmc_atac_lsi.h5ad"
+  atac_clustered_h5ad: "data/processed/atac/pbmc_atac_clustered.h5ad"
+
+  atac_lsi_variance_plot: "reports/figures/atac/atac_lsi_variance_plot.png"
+  atac_umap_clusters: "reports/figures/atac/atac_umap_leiden_0_6.png"
+
+  manifest: "reports/manifests/step04B_scatac_selected_preprocessing_manifest.json"

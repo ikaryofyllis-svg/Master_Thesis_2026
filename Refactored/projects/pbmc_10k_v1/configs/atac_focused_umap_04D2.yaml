@@ -1,0 +1,60 @@
+input:
+  atac_clustered_h5ad: "data/processed/atac/pbmc_atac_clustered.h5ad"
+  gene_activity_evidence_h5ad: "data/processed/atac/pbmc_atac_gene_activity_marker_evidence.h5ad"
+
+cluster:
+  key: "leiden_0_6"
+  selected_clusters:
+    - "0"
+    - "1"
+    - "2"
+    - "3"
+    - "4"
+    - "5"
+    - "6"
+    - "7"
+    - "9"
+    - "10"
+
+representation:
+  use_rep: "X_lsi_2_50"
+
+neighbors_grid:
+  - 15
+  - 30
+
+neighbors:
+  metric: "cosine"
+
+umap:
+  random_state: 42
+
+clustering:
+  run_leiden: true
+  leiden_resolution: 0.5
+  leiden_key_template: "leiden_04D2_lsi_neighbors_{n_neighbors}_res_0_5"
+
+plots:
+  dpi: 300
+  show: true
+  point_size: 6
+  alpha: 0.75
+  label_font_size: 10
+  marker_score_columns_prefix: "ga_score_"
+  max_marker_score_columns: 12
+
+outputs:
+  subset_h5ad: "data/processed/atac/pbmc_atac_04D2_selected_clusters_lsi_umap_comparison.h5ad"
+
+  subset_cell_table: "reports/tables/atac/annotation/atac_04D2_lsi_selected_cluster_cells.csv"
+  subset_summary: "reports/tables/atac/annotation/atac_04D2_lsi_selected_cluster_summary.csv"
+  neighbor_run_summary: "reports/tables/atac/annotation/atac_04D2_lsi_neighbor_run_summary.csv"
+
+  original_vs_recomputed_umap: "reports/figures/atac/annotation/atac_04D2_lsi_original_vs_recomputed_umap.png"
+  recomputed_umap_neighbors_15: "reports/figures/atac/annotation/atac_04D2_lsi_umap_neighbors_15.png"
+  recomputed_umap_neighbors_30: "reports/figures/atac/annotation/atac_04D2_lsi_umap_neighbors_30.png"
+  recomputed_umap_neighbors_comparison: "reports/figures/atac/annotation/atac_04D2_lsi_umap_neighbors_15_vs_30.png"
+  marker_score_umap_neighbors_15: "reports/figures/atac/annotation/atac_04D2_lsi_marker_scores_neighbors_15.png"
+  marker_score_umap_neighbors_30: "reports/figures/atac/annotation/atac_04D2_lsi_marker_scores_neighbors_30.png"
+
+  manifest: "reports/manifests/step04D2_scatac_lsi_selected_clusters_umap_comparison_manifest.json"

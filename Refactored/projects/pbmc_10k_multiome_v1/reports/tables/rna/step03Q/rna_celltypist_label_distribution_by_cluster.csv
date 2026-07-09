@@ -1,0 +1,253 @@
+leiden_0_6,celltypist_majority_voting,n_cells,cluster_n_cells,fraction_in_cluster
+0,Classical monocytes,2468,2470,0.9991902834008097
+0,DC2,1,2470,0.0004048582995951417
+0,Non-classical monocytes,1,2470,0.0004048582995951417
+0,Age-associated B cells,0,2470,0.0
+0,CD16+ NK cells,0,2470,0.0
+0,CD8a/a,0,2470,0.0
+0,HSC/MPP,0,2470,0.0
+0,MAIT cells,0,2470,0.0
+0,Memory B cells,0,2470,0.0
+0,Naive B cells,0,2470,0.0
+0,Plasma cells,0,2470,0.0
+0,Regulatory T cells,0,2470,0.0
+0,Tcm/Naive cytotoxic T cells,0,2470,0.0
+0,Tcm/Naive helper T cells,0,2470,0.0
+0,Tem/Effector helper T cells,0,2470,0.0
+0,Tem/Temra cytotoxic T cells,0,2470,0.0
+0,Tem/Trm cytotoxic T cells,0,2470,0.0
+0,pDC,0,2470,0.0
+1,Tcm/Naive helper T cells,1658,1703,0.9735760422783324
+1,Regulatory T cells,23,1703,0.013505578391074574
+1,Classical monocytes,14,1703,0.008220786846741044
+1,Tcm/Naive cytotoxic T cells,8,1703,0.004697592483852026
+1,Age-associated B cells,0,1703,0.0
+1,CD16+ NK cells,0,1703,0.0
+1,CD8a/a,0,1703,0.0
+1,DC2,0,1703,0.0
+1,HSC/MPP,0,1703,0.0
+1,MAIT cells,0,1703,0.0
+1,Memory B cells,0,1703,0.0
+1,Naive B cells,0,1703,0.0
+1,Non-classical monocytes,0,1703,0.0
+1,Plasma cells,0,1703,0.0
+1,Tem/Effector helper T cells,0,1703,0.0
+1,Tem/Temra cytotoxic T cells,0,1703,0.0
+1,Tem/Trm cytotoxic T cells,0,1703,0.0
+1,pDC,0,1703,0.0
+2,Tcm/Naive helper T cells,1019,1565,0.6511182108626198
+2,Tem/Effector helper T cells,369,1565,0.23578274760383386
+2,Regulatory T cells,164,1565,0.1047923322683706
+2,Tem/Trm cytotoxic T cells,10,1565,0.006389776357827476
+2,MAIT cells,2,1565,0.0012779552715654952
+2,Tem/Temra cytotoxic T cells,1,1565,0.0006389776357827476
+2,Age-associated B cells,0,1565,0.0
+2,CD16+ NK cells,0,1565,0.0
+2,CD8a/a,0,1565,0.0
+2,Classical monocytes,0,1565,0.0
+2,DC2,0,1565,0.0
+2,HSC/MPP,0,1565,0.0
+2,Memory B cells,0,1565,0.0
+2,Naive B cells,0,1565,0.0
+2,Non-classical monocytes,0,1565,0.0
+2,Plasma cells,0,1565,0.0
+2,Tcm/Naive cytotoxic T cells,0,1565,0.0
+2,pDC,0,1565,0.0
+3,Tcm/Naive cytotoxic T cells,1299,1434,0.9058577405857741
+3,Tcm/Naive helper T cells,134,1434,0.09344490934449093
+3,Tem/Trm cytotoxic T cells,1,1434,0.000697350069735007
+3,Age-associated B cells,0,1434,0.0
+3,CD16+ NK cells,0,1434,0.0
+3,CD8a/a,0,1434,0.0
+3,Classical monocytes,0,1434,0.0
+3,DC2,0,1434,0.0
+3,HSC/MPP,0,1434,0.0
+3,MAIT cells,0,1434,0.0
+3,Memory B cells,0,1434,0.0
+3,Naive B cells,0,1434,0.0
+3,Non-classical monocytes,0,1434,0.0
+3,Plasma cells,0,1434,0.0
+3,Regulatory T cells,0,1434,0.0
+3,Tem/Effector helper T cells,0,1434,0.0
+3,Tem/Temra cytotoxic T cells,0,1434,0.0
+3,pDC,0,1434,0.0
+4,Tem/Temra cytotoxic T cells,502,755,0.6649006622516557
+4,Tem/Trm cytotoxic T cells,240,755,0.31788079470198677
+4,CD8a/a,12,755,0.015894039735099338
+4,CD16+ NK cells,1,755,0.0013245033112582781
+4,Age-associated B cells,0,755,0.0
+4,Classical monocytes,0,755,0.0
+4,DC2,0,755,0.0
+4,HSC/MPP,0,755,0.0
+4,MAIT cells,0,755,0.0
+4,Memory B cells,0,755,0.0
+4,Naive B cells,0,755,0.0
+4,Non-classical monocytes,0,755,0.0
+4,Plasma cells,0,755,0.0
+4,Regulatory T cells,0,755,0.0
+4,Tcm/Naive cytotoxic T cells,0,755,0.0
+4,Tcm/Naive helper T cells,0,755,0.0
+4,Tem/Effector helper T cells,0,755,0.0
+4,pDC,0,755,0.0
+5,CD16+ NK cells,418,419,0.9976133651551312
+5,Tem/Temra cytotoxic T cells,1,419,0.002386634844868735
+5,Age-associated B cells,0,419,0.0
+5,CD8a/a,0,419,0.0
+5,Classical monocytes,0,419,0.0
+5,DC2,0,419,0.0
+5,HSC/MPP,0,419,0.0
+5,MAIT cells,0,419,0.0
+5,Memory B cells,0,419,0.0
+5,Naive B cells,0,419,0.0
+5,Non-classical monocytes,0,419,0.0
+5,Plasma cells,0,419,0.0
+5,Regulatory T cells,0,419,0.0
+5,Tcm/Naive cytotoxic T cells,0,419,0.0
+5,Tcm/Naive helper T cells,0,419,0.0
+5,Tem/Effector helper T cells,0,419,0.0
+5,Tem/Trm cytotoxic T cells,0,419,0.0
+5,pDC,0,419,0.0
+6,Memory B cells,300,377,0.7957559681697612
+6,Age-associated B cells,75,377,0.1989389920424403
+6,Naive B cells,2,377,0.005305039787798408
+6,CD16+ NK cells,0,377,0.0
+6,CD8a/a,0,377,0.0
+6,Classical monocytes,0,377,0.0
+6,DC2,0,377,0.0
+6,HSC/MPP,0,377,0.0
+6,MAIT cells,0,377,0.0
+6,Non-classical monocytes,0,377,0.0
+6,Plasma cells,0,377,0.0
+6,Regulatory T cells,0,377,0.0
+6,Tcm/Naive cytotoxic T cells,0,377,0.0
+6,Tcm/Naive helper T cells,0,377,0.0
+6,Tem/Effector helper T cells,0,377,0.0
+6,Tem/Temra cytotoxic T cells,0,377,0.0
+6,Tem/Trm cytotoxic T cells,0,377,0.0
+6,pDC,0,377,0.0
+7,Non-classical monocytes,341,343,0.9941690962099126
+7,Classical monocytes,1,343,0.0029154518950437317
+7,Tcm/Naive helper T cells,1,343,0.0029154518950437317
+7,Age-associated B cells,0,343,0.0
+7,CD16+ NK cells,0,343,0.0
+7,CD8a/a,0,343,0.0
+7,DC2,0,343,0.0
+7,HSC/MPP,0,343,0.0
+7,MAIT cells,0,343,0.0
+7,Memory B cells,0,343,0.0
+7,Naive B cells,0,343,0.0
+7,Plasma cells,0,343,0.0
+7,Regulatory T cells,0,343,0.0
+7,Tcm/Naive cytotoxic T cells,0,343,0.0
+7,Tem/Effector helper T cells,0,343,0.0
+7,Tem/Temra cytotoxic T cells,0,343,0.0
+7,Tem/Trm cytotoxic T cells,0,343,0.0
+7,pDC,0,343,0.0
+8,Naive B cells,277,277,1.0
+8,Age-associated B cells,0,277,0.0
+8,CD16+ NK cells,0,277,0.0
+8,CD8a/a,0,277,0.0
+8,Classical monocytes,0,277,0.0
+8,DC2,0,277,0.0
+8,HSC/MPP,0,277,0.0
+8,MAIT cells,0,277,0.0
+8,Memory B cells,0,277,0.0
+8,Non-classical monocytes,0,277,0.0
+8,Plasma cells,0,277,0.0
+8,Regulatory T cells,0,277,0.0
+8,Tcm/Naive cytotoxic T cells,0,277,0.0
+8,Tcm/Naive helper T cells,0,277,0.0
+8,Tem/Effector helper T cells,0,277,0.0
+8,Tem/Temra cytotoxic T cells,0,277,0.0
+8,Tem/Trm cytotoxic T cells,0,277,0.0
+8,pDC,0,277,0.0
+9,DC2,147,169,0.8698224852071006
+9,Classical monocytes,22,169,0.1301775147928994
+9,Age-associated B cells,0,169,0.0
+9,CD16+ NK cells,0,169,0.0
+9,CD8a/a,0,169,0.0
+9,HSC/MPP,0,169,0.0
+9,MAIT cells,0,169,0.0
+9,Memory B cells,0,169,0.0
+9,Naive B cells,0,169,0.0
+9,Non-classical monocytes,0,169,0.0
+9,Plasma cells,0,169,0.0
+9,Regulatory T cells,0,169,0.0
+9,Tcm/Naive cytotoxic T cells,0,169,0.0
+9,Tcm/Naive helper T cells,0,169,0.0
+9,Tem/Effector helper T cells,0,169,0.0
+9,Tem/Temra cytotoxic T cells,0,169,0.0
+9,Tem/Trm cytotoxic T cells,0,169,0.0
+9,pDC,0,169,0.0
+10,MAIT cells,116,118,0.9830508474576272
+10,Tem/Temra cytotoxic T cells,2,118,0.01694915254237288
+10,Age-associated B cells,0,118,0.0
+10,CD16+ NK cells,0,118,0.0
+10,CD8a/a,0,118,0.0
+10,Classical monocytes,0,118,0.0
+10,DC2,0,118,0.0
+10,HSC/MPP,0,118,0.0
+10,Memory B cells,0,118,0.0
+10,Naive B cells,0,118,0.0
+10,Non-classical monocytes,0,118,0.0
+10,Plasma cells,0,118,0.0
+10,Regulatory T cells,0,118,0.0
+10,Tcm/Naive cytotoxic T cells,0,118,0.0
+10,Tcm/Naive helper T cells,0,118,0.0
+10,Tem/Effector helper T cells,0,118,0.0
+10,Tem/Trm cytotoxic T cells,0,118,0.0
+10,pDC,0,118,0.0
+11,pDC,95,95,1.0
+11,Age-associated B cells,0,95,0.0
+11,CD16+ NK cells,0,95,0.0
+11,CD8a/a,0,95,0.0
+11,Classical monocytes,0,95,0.0
+11,DC2,0,95,0.0
+11,HSC/MPP,0,95,0.0
+11,MAIT cells,0,95,0.0
+11,Memory B cells,0,95,0.0
+11,Naive B cells,0,95,0.0
+11,Non-classical monocytes,0,95,0.0
+11,Plasma cells,0,95,0.0
+11,Regulatory T cells,0,95,0.0
+11,Tcm/Naive cytotoxic T cells,0,95,0.0
+11,Tcm/Naive helper T cells,0,95,0.0
+11,Tem/Effector helper T cells,0,95,0.0
+11,Tem/Temra cytotoxic T cells,0,95,0.0
+11,Tem/Trm cytotoxic T cells,0,95,0.0
+12,HSC/MPP,19,19,1.0
+12,Age-associated B cells,0,19,0.0
+12,CD16+ NK cells,0,19,0.0
+12,CD8a/a,0,19,0.0
+12,Classical monocytes,0,19,0.0
+12,DC2,0,19,0.0
+12,MAIT cells,0,19,0.0
+12,Memory B cells,0,19,0.0
+12,Naive B cells,0,19,0.0
+12,Non-classical monocytes,0,19,0.0
+12,Plasma cells,0,19,0.0
+12,Regulatory T cells,0,19,0.0
+12,Tcm/Naive cytotoxic T cells,0,19,0.0
+12,Tcm/Naive helper T cells,0,19,0.0
+12,Tem/Effector helper T cells,0,19,0.0
+12,Tem/Temra cytotoxic T cells,0,19,0.0
+12,Tem/Trm cytotoxic T cells,0,19,0.0
+12,pDC,0,19,0.0
+13,Plasma cells,19,19,1.0
+13,Age-associated B cells,0,19,0.0
+13,CD16+ NK cells,0,19,0.0
+13,CD8a/a,0,19,0.0
+13,Classical monocytes,0,19,0.0
+13,DC2,0,19,0.0
+13,HSC/MPP,0,19,0.0
+13,MAIT cells,0,19,0.0
+13,Memory B cells,0,19,0.0
+13,Naive B cells,0,19,0.0
+13,Non-classical monocytes,0,19,0.0
+13,Regulatory T cells,0,19,0.0
+13,Tcm/Naive cytotoxic T cells,0,19,0.0
+13,Tcm/Naive helper T cells,0,19,0.0
+13,Tem/Effector helper T cells,0,19,0.0
+13,Tem/Temra cytotoxic T cells,0,19,0.0
+13,Tem/Trm cytotoxic T cells,0,19,0.0
+13,pDC,0,19,0.0

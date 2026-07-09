@@ -1,0 +1,15 @@
+cluster;n_cells;fraction_cells;percent_cells;top_mean_expression_marker_group;top_mean_expression_score;top_pct_expressing_marker_group;top_pct_expressing_score;candidate_cell_type_broad;candidate_cell_type_detailed;annotation_confidence;positive_marker_evidence;negative_marker_evidence;possible_mixed_cluster;needs_subclustering;include_in_downstream_provisional;review_notes
+0;2470;0.2529960053262317;25.299.600.532.623.100;Monocytes_CD14;19.300.629;Monocytes_CD14;8.119.433.198.380.560;Monocytes_CD14;;;;;;;yes;
+1;1703;0.1744340878828229;1.744.340.878.828.220;CD4_T_cells;14.673.331;CD4_T_cells;674.618.320.610.687;Naïve_CD4_T_cells_helpers;;;;;;;yes;
+2;1565;0.16029908839496057;16.029.908.839.496.000;CD4_T_cells;12.351.828;T_cells_general;665.814.696.485.623;T_cells_general_cd4 ambigouus;;;;;;;no;
+3;1434;0.14688108163474342;14.688.108.163.474.300;CD4_T_cells;14.438.334;CD4_T_cells;6.849.721.059.972.100;Naïve_CD8_T_cells;;;;;;;yes;
+4;755;0.0773327870531599;7.733.278.705.315.980;Cytotoxic_T_NK;18.428.398;Cytotoxic_T_NK;706.401.766.004.415;Cytotoxic_T_cell;;;;;;;yes;
+5;419;0.04291713612619072;4.291.713.612.619.070;Cytotoxic_T_NK;26.300.166;Cytotoxic_T_NK;8.890.214.797.136.030;NK_cells;;;;;;;yes;
+6;377;0.03861517976031957;3.861.517.976.031.950;B_cells;27.029.169;B_cells;9.450.549.450.549.450;Memory_B_cells;;;;;;;yes;
+7;343;0.03513264365461436;3.513.264.365.461.430;Monocytes_general;2.475.292;Monocytes_general;9.834.791.059.280.850;Non_classical_Monocytes;;;;;;;yes;
+8;277;0.028372426508245417;28.372.426.508.245.400;B_cells;26.229.846;B_cells;9.169.675.090.252.700;Naïve_B_cells;;;;;;;yes;
+9;169;0.017310252996005325;17.310.252.996.005.300;Dendritic_cells_CD1C;20.404.384;Monocytes_general;9.280.078.895.463.510;Dendritic cells;;;;;;;yes;
+10;118;0.012086448837447505;12.086.448.837.447.500;Cytotoxic_T_NK;14.489.013;Cytotoxic_T_NK;6.680.790.960.451.970;Cytotoxic_T_NK;;;;;;;no;
+11;95;0.00973061558947045;0.9730615589470449;pDC;23.063.931;pDC;9.263.157.894.736.840;pDC;;;;;;;no;
+12;19;0.00194612311789409;0.194612311789409;Stress_response;0.8483109;Stress_response;6.491.228.070.175.430;Stress_response;;;;;;;no;
+13;19;0.00194612311789409;0.194612311789409;Plasma_cells;22.048.423;Plasma_cells;7.982.456.140.350.870;Plasma_cells;;;;;;;no;

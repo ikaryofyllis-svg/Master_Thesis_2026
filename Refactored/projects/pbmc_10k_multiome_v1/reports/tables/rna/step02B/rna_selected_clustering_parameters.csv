@@ -1,0 +1,2 @@
+n_pcs,n_neighbors,leiden_resolution,leiden_key,selection_source,yaml_updated,yaml_path,yaml_backup
+30,20,0.6,leiden_0_6,interactive Step 02B grid review,True,C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\Refactored\projects\pbmc_10k_multiome_v1\configs\preprocessing_rna.yaml,C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\Refactored\projects\pbmc_10k_multiome_v1\configs\preprocessing_rna.before_step02B_clustering_20260707_142122.yaml

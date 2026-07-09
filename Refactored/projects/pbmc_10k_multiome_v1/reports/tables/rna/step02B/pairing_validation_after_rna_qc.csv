@@ -1,0 +1,3 @@
+stage,rna_n_cells,atac_n_cells,multiome_n_cells,same_cell_count,same_barcode_set,same_barcode_order,rna_duplicate_barcodes,atac_duplicate_barcodes,multiome_duplicate_barcodes,pairing_confirmed
+before_step02B_filtering,11898,11898,11898,True,True,True,0,0,0,True
+after_step02B_cell_filtering,9763,9763,9763,True,True,True,0,0,0,True

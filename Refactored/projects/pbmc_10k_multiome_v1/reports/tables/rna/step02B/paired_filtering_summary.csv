@@ -1,0 +1,5 @@
+modality,n_cells,n_features
+RNA_cell_filtered,9763,36601
+ATAC_after_RNA_QC,9763,143887
+Multiome_after_RNA_QC,9763,180488
+RNA_gene_filtered,9763,23699

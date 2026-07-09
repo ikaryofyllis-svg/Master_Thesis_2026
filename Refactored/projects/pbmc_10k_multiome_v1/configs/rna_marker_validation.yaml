@@ -1,0 +1,183 @@
+step: "03A"
+
+description: >
+  RNA informed marker-based annotation evidence for the
+  final selected Step 02B Leiden clusters.
+  This step creates annotation evidence only and does not
+  assign final reviewed cell-type labels.
+
+input:
+  rna_clustered_h5ad: "data/processed/rna/pbmc_multiome_rna_clustered.h5ad"
+
+cluster_key_source: "preprocessing_rna.yaml"
+
+marker_genes:
+
+  T_cells_general:
+    - "CD3D"
+    - "CD3E"
+    - "CD3G"
+    - "TRAC"
+
+  CD4_T_cells:
+    - "CD4"
+    - "IL7R"
+    - "CCR7"
+    - "LTB"
+    - "TCF7"
+    - "LEF1"
+    - "MAL"
+    - "NOSIP"
+
+  CD8_T_cells:
+    - "CD8A"
+    - "CD8B"
+    - "CCL5"
+    - "GZMK"
+    - "LINC02446"
+
+  Cytotoxic_T_NK:
+    - "NKG7"
+    - "GNLY"
+    - "PRF1"
+    - "GZMB"
+    - "CTSW"
+    - "CCL5"
+
+  NK_cells:
+    - "NKG7"
+    - "GNLY"
+    - "PRF1"
+    - "KLRD1"
+    - "KLRF1"
+    - "TYROBP"
+    - "FCGR3A"
+
+  B_cells:
+    - "MS4A1"
+    - "CD79A"
+    - "CD79B"
+    - "BANK1"
+    - "CD74"
+    - "HLA-DRA"
+    - "CD37"
+
+  Naive_B_cells:
+    - "TCL1A"
+    - "IGHD"
+    - "IL4R"
+    - "FCER2"
+    - "IGHM"
+
+  Memory_B_cells:
+    - "CD27"
+    - "AIM2"
+    - "TNFRSF13B"
+    - "GPR183"
+    - "CD82"
+
+  Plasma_cells:
+    - "MZB1"
+    - "JCHAIN"
+    - "XBP1"
+    - "SDC1"
+    - "IGHG1"
+    - "IGHG3"
+
+  Monocytes_general:
+    - "LYZ"
+    - "LST1"
+    - "AIF1"
+    - "TYROBP"
+    - "FCER1G"
+    - "CTSS"
+
+  Monocytes_CD14:
+    - "S100A8"
+    - "S100A9"
+    - "FCN1"
+    - "CD14"
+    - "CTSD"
+    - "VCAN"
+
+  Monocytes_FCGR3A:
+    - "FCGR3A"
+    - "MS4A7"
+    - "LST1"
+    - "AIF1"
+    - "IFITM3"
+    - "LILRB1"
+
+  Dendritic_cells_CD1C:
+    - "FCER1A"
+    - "CST3"
+    - "CLEC10A"
+    - "CD1C"
+    - "CD74"
+    - "HLA-DPA1"
+
+  pDC:
+    - "GZMB"
+    - "IRF7"
+    - "IL3RA"
+    - "TCF4"
+    - "CLEC4C"
+    - "GZMB"
+
+  Platelets:
+    - "PPBP"
+    - "PF4"
+    - "NRGN"
+    - "SDPR"
+    - "RGS18"
+    - "GP9"
+
+  Cycling_cells:
+    - "MKI67"
+    - "TOP2A"
+    - "STMN1"
+    - "TYMS"
+    - "UBE2C"
+
+  Interferon_response:
+    - "ISG15"
+    - "IFIT1"
+    - "IFIT2"
+    - "IFIT3"
+    - "IFI6"
+    - "MX1"
+
+  Stress_response:
+    - "FOS"
+    - "JUN"
+    - "JUNB"
+    - "DUSP1"
+    - "HSPA1A"
+    - "HSPA1B"
+
+plotting:
+  use_raw: true
+  dotplot_standard_scale: "var"
+  umap_marker_batch_size: 12
+  dpi: 300
+  display_figures: true
+
+outputs:
+  marker_availability_table: "reports/tables/rna/step03A/rna_marker_gene_availability.csv"
+
+  marker_mean_expression_table: "reports/tables/rna/step03A/rna_cluster_marker_mean_expression.csv"
+
+  marker_pct_expressing_table: "reports/tables/rna/step03A/rna_cluster_marker_pct_expressing.csv"
+
+  marker_group_scores_table: "reports/tables/rna/step03A/rna_cluster_marker_group_scores.csv"
+
+  annotation_template_table: "reports/tables/rna/step03A/rna_informed_annotation_template.csv"
+
+  cluster_sizes_table: "reports/tables/rna/step03A/rna_step03A_cluster_sizes.csv"
+
+  marker_dotplot_dir: "reports/figures/rna/step03A/annotation"
+
+  marker_umaps_dir: "reports/figures/rna/step03A/annotation/marker_umaps"
+
+  manifest: "reports/manifests/step03A_rna_informed_annotation_manifest.json"
+

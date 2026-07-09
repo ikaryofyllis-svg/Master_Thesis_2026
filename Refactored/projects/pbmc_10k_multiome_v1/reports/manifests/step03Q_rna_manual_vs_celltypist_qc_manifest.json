@@ -1,0 +1,76 @@
+{
+  "step": "03Q",
+  "description": "Quick RNA annotation QC comparing manual marker-based labels with CellTypist.",
+  "timestamp": "2026-07-08T16:18:05",
+  "project": {
+    "refactor_root": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored",
+    "project_id": "pbmc_10k_multiome_v1",
+    "project_root": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1",
+    "project_name": "PBMC 10k paired multiome GRN thesis project",
+    "organism": "human",
+    "domain": "PBMC / immune",
+    "configs": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\configs",
+    "data": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data",
+    "raw": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\raw",
+    "external": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\external",
+    "interim": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\interim",
+    "processed": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed",
+    "processed_rna": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\rna",
+    "processed_atac": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\atac",
+    "processed_multiome": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\multiome",
+    "processed_integration": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\integration",
+    "processed_grn": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\grn",
+    "processed_gnn": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\gnn",
+    "reports": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports",
+    "tables": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables",
+    "tables_rna": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\rna",
+    "tables_atac": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\atac",
+    "tables_annotation": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\annotation",
+    "figures": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\figures",
+    "figures_rna": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\figures\\rna",
+    "figures_atac": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\figures\\atac",
+    "figures_annotation": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\figures\\annotation",
+    "manifests": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\manifests",
+    "logs": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\logs",
+    "models": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\models",
+    "legacy_root": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project",
+    "legacy_data": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\data",
+    "legacy_results": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\results"
+  },
+  "inputs": {
+    "rna_clustered_h5ad": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\rna\\pbmc_multiome_rna_clustered.h5ad",
+    "manual_annotation_table": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\rna\\step03A\\rna_informed_annotation_template.csv",
+    "preprocessing_config": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\configs\\preprocessing_rna.yaml"
+  },
+  "clustering": {
+    "cluster_key": "leiden_0_6",
+    "n_pcs": 30,
+    "n_neighbors": 20,
+    "leiden_resolution": 0.6
+  },
+  "celltypist": {
+    "model": "Immune_All_Low.pkl",
+    "majority_voting": true,
+    "role": "annotation confirmation evidence, not final biological truth"
+  },
+  "summary": {
+    "n_cells": 9763,
+    "n_clusters": 14,
+    "n_manual_labels": 9,
+    "n_celltypist_labels": 18,
+    "clusters_requiring_review": 13
+  },
+  "outputs": {
+    "annotated_h5ad": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\rna\\pbmc_multiome_rna_manual_celltypist_qc.h5ad",
+    "per_cell_table": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\rna\\step03Q\\rna_manual_celltypist_per_cell.csv",
+    "celltypist_cluster_summary": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\rna\\step03Q\\rna_celltypist_label_distribution_by_cluster.csv",
+    "celltypist_majority": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\rna\\step03Q\\rna_celltypist_majority_label_by_cluster.csv",
+    "cluster_comparison": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\rna\\step03Q\\rna_manual_vs_celltypist_cluster_comparison.csv",
+    "selected_clusters_umap": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\figures\\rna\\step03Q\\rna_selected_clusters_leiden_0_6.png",
+    "manual_labels_umap": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\figures\\rna\\step03Q\\rna_manual_marker_labels_leiden_0_6.png",
+    "celltypist_umap": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\figures\\rna\\step03Q\\rna_celltypist_labels_leiden_0_6.png",
+    "combined_umap": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\figures\\rna\\step03Q\\rna_selected_clusters_manual_celltypist_leiden_0_6.png",
+    "confusion_heatmap": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\figures\\rna\\step03Q\\rna_manual_vs_celltypist_heatmap_leiden_0_6.png",
+    "manifest": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\manifests\\step03Q_rna_manual_vs_celltypist_qc_manifest.json"
+  }
+}

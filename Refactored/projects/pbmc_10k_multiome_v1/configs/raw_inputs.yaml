@@ -1,0 +1,22 @@
+raw_inputs:
+  multiome_10x_h5: "../../../data/raw/PBMC from a Healthy Donor - Granulocytes Removed Through Cell Sorting (10k)/pbmc_granulocyte_sorted_10k_filtered_feature_bc_matrix.h5"
+
+outputs:
+  raw_multiome_h5ad: "data/processed/multiome/pbmc_multiome_raw.h5ad"
+  raw_rna_h5ad: "data/processed/rna/pbmc_multiome_rna_raw.h5ad"
+  raw_atac_h5ad: "data/processed/atac/pbmc_multiome_atac_raw.h5ad"
+
+  file_check_table: "reports/tables/step01/raw_input_file_check.csv"
+  feature_type_table: "reports/tables/step01/feature_type_counts.csv"
+  pairing_summary_table: "reports/tables/step01/pairing_summary.csv"
+  barcode_preview_table: "reports/tables/step01/barcode_preview.csv"
+
+  manifest: "reports/manifests/step01_load_raw_paired_multiome_manifest.json"
+
+validation:
+  required_feature_types:
+    - "Gene Expression"
+    - "Peaks"
+
+  require_identical_barcode_order: true
+  require_no_duplicate_barcodes: true

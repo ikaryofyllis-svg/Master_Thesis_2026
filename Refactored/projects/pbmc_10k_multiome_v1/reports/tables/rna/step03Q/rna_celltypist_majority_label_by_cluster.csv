@@ -1,0 +1,15 @@
+leiden_0_6,celltypist_cluster_majority_label,celltypist_cluster_majority_n_cells,cluster_n_cells,celltypist_cluster_majority_fraction
+0,Classical monocytes,2468,2470,0.9991902834008097
+1,Tcm/Naive helper T cells,1658,1703,0.9735760422783324
+2,Tcm/Naive helper T cells,1019,1565,0.6511182108626198
+3,Tcm/Naive cytotoxic T cells,1299,1434,0.9058577405857741
+4,Tem/Temra cytotoxic T cells,502,755,0.6649006622516557
+5,CD16+ NK cells,418,419,0.9976133651551312
+6,Memory B cells,300,377,0.7957559681697612
+7,Non-classical monocytes,341,343,0.9941690962099126
+8,Naive B cells,277,277,1.0
+9,DC2,147,169,0.8698224852071006
+10,MAIT cells,116,118,0.9830508474576272
+11,pDC,95,95,1.0
+12,HSC/MPP,19,19,1.0
+13,Plasma cells,19,19,1.0

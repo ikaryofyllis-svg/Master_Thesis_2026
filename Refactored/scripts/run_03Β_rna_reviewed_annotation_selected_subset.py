@@ -454,3 +454,28 @@ print("\nDone.")
 print("Step 03B reviewed annotation completed.")
 print("Full object keeps all clusters.")
 print("Selected subset contains only include_in_downstream == yes.")
+
+from pathlib import Path  # paths
+
+print(Path.cwd())  # δείχνει τον current working directory
+
+import pandas as pd  # χειρισμός CSV table
+
+reviewed = pd.read_csv(
+    "reports/tables/rna/rna_reviewed_cluster_annotation.csv",
+    dtype={"cluster": str}
+)  # διάβασε το manual reviewed annotation table
+
+kept = reviewed[
+    reviewed["include_in_downstream"].astype(str).str.lower().isin(["yes", "true", "1"])
+]  # κράτα μόνο clusters για downstream
+
+excluded = reviewed[
+    ~reviewed["include_in_downstream"].astype(str).str.lower().isin(["yes", "true", "1"])
+]  # βρες clusters που αποκλείονται
+
+print("Kept downstream clusters:")
+print(kept[["cluster", "cell_type_broad", "cell_type_detailed", "annotation_confidence"]])
+
+print("\nExcluded clusters:")
+print(excluded[["cluster", "cell_type_broad", "exclusion_reason", "annotation_confidence"]])

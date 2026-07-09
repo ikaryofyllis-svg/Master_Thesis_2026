@@ -1,0 +1,2 @@
+cells_before,cells_passing_rna_qc,predicted_doublets,cells_retained_final,cells_removed_final,cell_retention_fraction,genes_before,genes_after,genes_removed,gene_retention_fraction,min_genes_per_cell,min_cells_per_gene,max_pct_mito,max_total_counts,doublet_score_threshold,filter_predicted_doublets
+11898,10751,1061,9763,2135,0.820558076987729,36601,23699,12902,0.647495970055463,200,5,15.0,40000.0,0.1761474573480339,True

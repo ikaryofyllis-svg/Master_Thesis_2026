@@ -1,0 +1,65 @@
+input:
+  atac_clustered_h5ad: "data/processed/atac/pbmc_atac_clustered.h5ad"
+  peak_annotation_tsv: "data/raw/atac/atac_pbmc_10k_nextgem_peak_annotation.tsv"
+
+annotation:
+  peak_column: null
+  gene_column: "gene"
+  gene_id_column: null
+  build_peak_from_columns: true
+  chrom_column: "chrom"
+  start_column: "start"
+  end_column: "end"
+gene_activity:
+  use_layer: "counts"
+  normalize_total: true
+  target_sum: 10000.0
+  log1p: true
+  min_peaks_per_gene: 1
+
+markers:
+  genes:
+    - CD3D
+    - CD3E
+    - TRAC
+    - CD4
+    - IL7R
+    - CCR7
+    - LTB
+    - CD8A
+    - CD8B
+    - NKG7
+    - GNLY
+    - GZMB
+    - PRF1
+    - KLRD1
+    - FCGR3A
+    - MS4A1
+    - CD79A
+    - CD79B
+    - BANK1
+    - LYZ
+    - S100A8
+    - S100A9
+    - LST1
+    - FCN1
+    - CD14
+    - MS4A7
+    - FCER1A
+    - CST3
+    - CLEC10A
+    - IL3RA
+    - IRF7
+    - TCF4
+    - PPBP
+    - PF4
+    - NRGN
+
+outputs:
+  gene_activity_h5ad: "data/processed/atac/pbmc_atac_gene_activity.h5ad"
+  mapping_summary: "reports/tables/atac/atac_gene_activity_mapping_summary.csv"
+  marker_availability: "reports/tables/atac/atac_gene_activity_marker_availability.csv"
+  marker_mean_by_cluster: "reports/tables/atac/atac_gene_activity_marker_mean_by_cluster.csv"
+  marker_dotplot: "reports/figures/atac/gene_activity/atac_gene_activity_marker_dotplot.png"
+  marker_umap: "reports/figures/atac/gene_activity/atac_gene_activity_marker_umap.png"
+  manifest: "reports/manifests/step04C_scatac_gene_activity_manifest.json"

@@ -1,0 +1,2 @@
+n_cells,expected_doublet_rate,automatic_threshold,selected_threshold,initial_threshold_source,selected_threshold_source,predicted_doublets,predicted_doublet_fraction,filter_predicted_doublets
+11898,0.06,0.17614745734803391,0.17614745734803391,scanpy_scrublet_automatic,accepted_automatic_scrublet_threshold,1061,0.08917465120188267,True

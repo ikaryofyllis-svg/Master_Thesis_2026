@@ -1,0 +1,2 @@
+input_name,configured_path,resolved_path,exists,is_file,size_mb
+multiome_10x_h5,../../../data/raw/PBMC from a Healthy Donor - Granulocytes Removed Through Cell Sorting (10k)/pbmc_granulocyte_sorted_10k_filtered_feature_bc_matrix.h5,C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\data\raw\PBMC from a Healthy Donor - Granulocytes Removed Through Cell Sorting (10k)\pbmc_granulocyte_sorted_10k_filtered_feature_bc_matrix.h5,True,True,192.125528

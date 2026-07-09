@@ -1,0 +1,76 @@
+{
+  "step": "01",
+  "script": "run_01_paired_load_and_validate_multiome.py",
+  "description": "Load one paired 10x Multiome H5, validate feature types and barcode alignment, split RNA and ATAC, and save project-aware raw AnnData objects.",
+  "project": {
+    "refactor_root": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored",
+    "project_id": "pbmc_10k_multiome_v1",
+    "project_root": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1",
+    "project_name": "PBMC 10k paired multiome GRN thesis project",
+    "organism": "human",
+    "domain": "PBMC / immune",
+    "configs": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\configs",
+    "data": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data",
+    "raw": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\raw",
+    "external": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\external",
+    "interim": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\interim",
+    "processed": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed",
+    "processed_rna": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\rna",
+    "processed_atac": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\atac",
+    "processed_multiome": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\multiome",
+    "processed_integration": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\integration",
+    "processed_grn": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\grn",
+    "processed_gnn": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\gnn",
+    "reports": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports",
+    "tables": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables",
+    "tables_rna": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\rna",
+    "tables_atac": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\atac",
+    "tables_annotation": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\annotation",
+    "figures": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\figures",
+    "figures_rna": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\figures\\rna",
+    "figures_atac": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\figures\\atac",
+    "figures_annotation": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\figures\\annotation",
+    "manifests": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\manifests",
+    "logs": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\logs",
+    "models": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\models",
+    "legacy_root": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project",
+    "legacy_data": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\data",
+    "legacy_results": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\results"
+  },
+  "config": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\configs\\raw_inputs.yaml",
+  "inputs": {
+    "multiome_10x_h5": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\data\\raw\\PBMC from a Healthy Donor - Granulocytes Removed Through Cell Sorting (10k)\\pbmc_granulocyte_sorted_10k_filtered_feature_bc_matrix.h5",
+    "multiome_10x_h5_size_mb": 192.125528
+  },
+  "validation_parameters": {
+    "required_feature_types": [
+      "Gene Expression",
+      "Peaks"
+    ],
+    "require_identical_barcode_order": true,
+    "require_no_duplicate_barcodes": true
+  },
+  "outputs": {
+    "raw_multiome_h5ad": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\multiome\\pbmc_multiome_raw.h5ad",
+    "raw_rna_h5ad": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\rna\\pbmc_multiome_rna_raw.h5ad",
+    "raw_atac_h5ad": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\data\\processed\\atac\\pbmc_multiome_atac_raw.h5ad",
+    "file_check_table": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\step01\\raw_input_file_check.csv",
+    "feature_type_table": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\step01\\feature_type_counts.csv",
+    "pairing_summary_table": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\step01\\pairing_summary.csv",
+    "barcode_preview_table": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\tables\\step01\\barcode_preview.csv",
+    "manifest": "C:\\Users\\jkary\\Desktop\\bioinformatics\\MSc thesis\\Msc_Thesis_Project\\Refactored\\projects\\pbmc_10k_multiome_v1\\reports\\manifests\\step01_load_raw_paired_multiome_manifest.json"
+  },
+  "summary": {
+    "multiome_n_cells": 11898,
+    "multiome_n_features": 180488,
+    "rna_n_cells": 11898,
+    "rna_n_genes": 36601,
+    "atac_n_cells": 11898,
+    "atac_n_peaks": 143887,
+    "shared_barcodes": 11898,
+    "paired_confirmed": true,
+    "multiome_barcode_hash": "0875ea3be00cd4fc145889e79740d457654a94373bde9c61918707290bdd0ba8",
+    "rna_barcode_hash": "0875ea3be00cd4fc145889e79740d457654a94373bde9c61918707290bdd0ba8",
+    "atac_barcode_hash": "0875ea3be00cd4fc145889e79740d457654a94373bde9c61918707290bdd0ba8"
+  }
+}

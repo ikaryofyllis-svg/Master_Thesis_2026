@@ -1,0 +1,6 @@
+n_pcs,n_neighbors,leiden_resolution,cluster_key,n_clusters,min_cluster_size,median_cluster_size,max_cluster_size,clusters_lt_20,clusters_lt_50,clusters_lt_100
+10,10,0.6,leiden_pcs10_neighbors10_res0_6,14,19,411.5,1818,1,1,2
+10,20,0.6,leiden_pcs10_neighbors20_res0_6,14,19,406.0,1621,2,2,3
+30,10,0.6,leiden_pcs30_neighbors10_res0_6,15,14,377.0,2426,3,3,4
+30,20,0.6,leiden_pcs30_neighbors20_res0_6,14,19,360.0,2470,2,2,3
+30,20,0.6,leiden_pcs30_neighbors20_res0_6,14,19,360.0,2470,2,2,3

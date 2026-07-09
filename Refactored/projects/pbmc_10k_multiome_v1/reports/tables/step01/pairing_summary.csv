@@ -1,0 +1,2 @@
+multiome_n_cells,multiome_n_features,rna_n_cells,rna_n_genes,atac_n_cells,atac_n_peaks,shared_barcodes,rna_shared_fraction,atac_shared_fraction,multiome_duplicate_barcodes,rna_duplicate_barcodes,atac_duplicate_barcodes,same_cell_count,same_barcode_set,same_barcode_order,same_barcode_hash,paired_confirmed
+11898,180488,11898,36601,11898,143887,11898,1.0,1.0,0,0,0,True,True,True,True,True
