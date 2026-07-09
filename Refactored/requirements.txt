@@ -1,0 +1,18 @@
+# Core single-cell analysis
+scanpy
+anndata
+celltypist
+
+# Scientific Python and plotting
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+h5py
+pyyaml
+
+# Scanpy clustering support
+python-igraph
+leidenalg

@@ -1,4 +1,4 @@
-active_project_id: pbmc_10k_v1
+active_project_id: pbmc_10k_multiome_v1
 
 projects:
   pbmc_10k_v1:
@@ -8,4 +8,15 @@ projects:
     description: >
       Refactored PBMC RNA/ATAC project for cell-type annotation,
       pseudo-bulk integration, GRN inference, and GNN refinement.
-    project_root: projects/pbmc_10k_v1  # active project workspace
+    project_root: projects/pbmc_10k_v1
+
+  pbmc_10k_multiome_v1:
+    project_name: PBMC 10k paired multiome GRN thesis project
+    organism: human
+    domain: PBMC / immune
+    description: >
+      Paired 10x Multiome PBMC project using matched Gene Expression
+      and ATAC measurements from the same cell barcodes for cell-type
+      annotation, regulatory feature construction, GRN inference,
+      and GNN refinement.
+    project_root: projects/pbmc_10k_multiome_v1
