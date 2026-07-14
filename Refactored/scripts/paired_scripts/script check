@@ -1,0 +1,73 @@
+from pathlib import Path
+
+import numpy as np
+import scanpy as sc
+from scipy import sparse
+
+
+# Refactored project root
+refactor_dir = Path(
+    r"C:\Users\jkary\Desktop\bioinformatics\MSc thesis"
+    r"\Msc_Thesis_Project\Refactored"
+)
+
+# Selected ATAC file
+atac_path = (
+    refactor_dir
+    / "projects"
+    / "pbmc_10k_multiome_v1"
+    / "data"
+    / "processed"
+    / "selected_for_scatac_analysis"
+    / "pbmc_multiome_atac_selected_for_scatac_analysis.h5ad"
+)
+
+print("Expected ATAC path:")
+print(atac_path)
+
+print("\nFile exists:")
+print(atac_path.exists())
+
+if not atac_path.exists():
+    raise FileNotFoundError(
+        "Selected ATAC file was not found.\n"
+        f"Expected path:\n{atac_path}"
+    )
+
+atac = sc.read_h5ad(atac_path)
+
+X = atac.X
+
+print("\nLoaded ATAC object:")
+print(atac)
+
+print("\nMatrix information:")
+print(f"Type:  {type(X)}")
+print(f"Shape: {X.shape}")
+print(f"dtype: {X.dtype}")
+
+if sparse.issparse(X):
+    values = X.data
+    n_nonzero = X.nnz
+else:
+    values = np.asarray(X).ravel()
+    n_nonzero = int(np.count_nonzero(values))
+
+if values.size == 0:
+    raise ValueError("ATAC X contains no non-zero values.")
+
+sample_size = min(values.size, 1_000_000)
+sample_values = values[:sample_size]
+
+print("\nValue audit:")
+print(f"Non-zero entries: {n_nonzero}")
+print(f"Minimum stored value: {values.min()}")
+print(f"Maximum stored value: {values.max()}")
+print(f"Contains negative values: {np.any(values < 0)}")
+print(
+    "All stored values integer-like:",
+    np.allclose(sample_values, np.round(sample_values)),
+)
+
+print("\nFirst unique stored values:")
+print(np.unique(sample_values)[:30])

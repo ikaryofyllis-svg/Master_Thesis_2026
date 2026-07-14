@@ -1,0 +1,4 @@
+object	n_obs	n_vars	obs_names_unique	var_names_unique	backed_mode
+RNA	7566	3000	True	True	True
+ATAC	7566	143887	True	True	True
+Multiome	7566	180488	True	True	True

@@ -28,3 +28,4 @@ print(rna.shape)
 print(atac.shape)
 print(rna.obs_names.equals(atac.obs_names))
 print((rna.obs["cell_id"] == atac.obs["cell_id"]).all())
+

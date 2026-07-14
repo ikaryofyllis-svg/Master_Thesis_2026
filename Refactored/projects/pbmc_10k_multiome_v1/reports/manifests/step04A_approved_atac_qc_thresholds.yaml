@@ -1,0 +1,15 @@
+project_id: pbmc_10k_multiome_v1
+script: run_04A_paired_atac_qc_and_final_filtering.py
+selected_candidate_set: lenient
+thresholds:
+  min_atac_fragments: 900
+  min_accessible_peaks: 700
+  min_atac_frip: 0.5
+preview:
+  n_cells_before: 7947
+  n_cells_pass: 7566
+  n_cells_fail: 381
+  retention_fraction: 0.9520573801434503
+warning_rules:
+  max_allowed_cell_type_loss_fraction: 0.15
+  warning_only: true

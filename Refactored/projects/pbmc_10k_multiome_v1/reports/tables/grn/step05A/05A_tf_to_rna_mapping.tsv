@@ -1,0 +1,1640 @@
+tf_symbol	tf_symbol_original	catalogue_index	reference_name	reference_version	rna_var_name	rna_gene_symbol	present_in_rna	included_as_tf_node	exclusion_reason
+AC008770.3	AC008770.3	0	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+AC023509.3	AC023509.3	1	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+AC092835.1	AC092835.1	2	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+AC138696.1	AC138696.1	3	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ADNP	ADNP	4	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ADNP2	ADNP2	5	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+AEBP1	AEBP1	6	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+AEBP2	AEBP2	7	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+AHCTF1	AHCTF1	8	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+AHDC1	AHDC1	9	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+AHR	AHR	10	Lambert_human_TFs	v1.01	AHR	AHR	True	True	
+AHRR	AHRR	11	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+AIRE	AIRE	12	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+AKAP8	AKAP8	13	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+AKAP8L	AKAP8L	14	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+AKNA	AKNA	15	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ALX1	ALX1	16	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ALX3	ALX3	17	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ALX4	ALX4	18	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ANHX	ANHX	19	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ANKZF1	ANKZF1	20	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+AR	AR	21	Lambert_human_TFs	v1.01	AR	AR	True	True	
+ARGFX	ARGFX	22	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ARHGAP35	ARHGAP35	23	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ARID2	ARID2	24	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ARID3A	ARID3A	25	Lambert_human_TFs	v1.01	ARID3A	ARID3A	True	True	
+ARID3B	ARID3B	26	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ARID3C	ARID3C	27	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ARID5A	ARID5A	28	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ARID5B	ARID5B	29	Lambert_human_TFs	v1.01	ARID5B	ARID5B	True	True	
+ARNT	ARNT	30	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ARNT2	ARNT2	31	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ARNTL	ARNTL	32	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ARNTL2	ARNTL2	33	Lambert_human_TFs	v1.01	ARNTL2	ARNTL2	True	True	
+ARX	ARX	34	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ASCL1	ASCL1	35	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ASCL2	ASCL2	36	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ASCL3	ASCL3	37	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ASCL4	ASCL4	38	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ASCL5	ASCL5	39	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ASH1L	ASH1L	40	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ATF1	ATF1	41	Lambert_human_TFs	v1.01	ATF1	ATF1	True	True	
+ATF2	ATF2	42	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ATF3	ATF3	43	Lambert_human_TFs	v1.01	ATF3	ATF3	True	True	
+ATF4	ATF4	44	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ATF5	ATF5	45	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ATF6	ATF6	46	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ATF6B	ATF6B	47	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ATF7	ATF7	48	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ATMIN	ATMIN	49	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ATOH1	ATOH1	50	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ATOH7	ATOH7	51	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ATOH8	ATOH8	52	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BACH1	BACH1	53	Lambert_human_TFs	v1.01	BACH1	BACH1	True	True	
+BACH2	BACH2	54	Lambert_human_TFs	v1.01	BACH2	BACH2	True	True	
+BARHL1	BARHL1	55	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BARHL2	BARHL2	56	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BARX1	BARX1	57	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BARX2	BARX2	58	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BATF	BATF	59	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BATF2	BATF2	60	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BATF3	BATF3	61	Lambert_human_TFs	v1.01	BATF3	BATF3	True	True	
+BAZ2A	BAZ2A	62	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BAZ2B	BAZ2B	63	Lambert_human_TFs	v1.01	BAZ2B	BAZ2B	True	True	
+BBX	BBX	64	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BCL11A	BCL11A	65	Lambert_human_TFs	v1.01	BCL11A	BCL11A	True	True	
+BCL11B	BCL11B	66	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BCL6	BCL6	67	Lambert_human_TFs	v1.01	BCL6	BCL6	True	True	
+BCL6B	BCL6B	68	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BHLHA15	BHLHA15	69	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BHLHA9	BHLHA9	70	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BHLHE22	BHLHE22	71	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BHLHE23	BHLHE23	72	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BHLHE40	BHLHE40	73	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BHLHE41	BHLHE41	74	Lambert_human_TFs	v1.01	BHLHE41	BHLHE41	True	True	
+BNC1	BNC1	75	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BNC2	BNC2	76	Lambert_human_TFs	v1.01	BNC2	BNC2	True	True	
+BORCS8-MEF2B	BORCS8-MEF2B	77	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BPTF	BPTF	78	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BRF2	BRF2	79	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+BSX	BSX	80	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+C11ORF95	C11orf95	81	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CAMTA1	CAMTA1	82	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CAMTA2	CAMTA2	83	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CARF	CARF	84	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CASZ1	CASZ1	85	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CBX2	CBX2	86	Lambert_human_TFs	v1.01	CBX2	CBX2	True	True	
+CC2D1A	CC2D1A	87	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CCDC169-SOHLH2	CCDC169-SOHLH2	88	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CCDC17	CCDC17	89	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CDC5L	CDC5L	90	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CDX1	CDX1	91	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CDX2	CDX2	92	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CDX4	CDX4	93	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CEBPA	CEBPA	94	Lambert_human_TFs	v1.01	CEBPA	CEBPA	True	True	
+CEBPB	CEBPB	95	Lambert_human_TFs	v1.01	CEBPB	CEBPB	True	True	
+CEBPD	CEBPD	96	Lambert_human_TFs	v1.01	CEBPD	CEBPD	True	True	
+CEBPE	CEBPE	97	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CEBPG	CEBPG	98	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CEBPZ	CEBPZ	99	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CENPA	CENPA	100	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CENPB	CENPB	101	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CENPBD1	CENPBD1	102	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CENPS	CENPS	103	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CENPT	CENPT	104	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CENPX	CENPX	105	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CGGBP1	CGGBP1	106	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CHAMP1	CHAMP1	107	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CHCHD3	CHCHD3	108	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CIC	CIC	109	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CLOCK	CLOCK	110	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CPEB1	CPEB1	111	Lambert_human_TFs	v1.01	CPEB1	CPEB1	True	True	
+CPXCR1	CPXCR1	112	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CREB1	CREB1	113	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CREB3	CREB3	114	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CREB3L1	CREB3L1	115	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CREB3L2	CREB3L2	116	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CREB3L3	CREB3L3	117	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CREB3L4	CREB3L4	118	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CREB5	CREB5	119	Lambert_human_TFs	v1.01	CREB5	CREB5	True	True	
+CREBL2	CREBL2	120	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CREBZF	CREBZF	121	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CREM	CREM	122	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CRX	CRX	123	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CSRNP1	CSRNP1	124	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CSRNP2	CSRNP2	125	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CSRNP3	CSRNP3	126	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CTCF	CTCF	127	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CTCFL	CTCFL	128	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CUX1	CUX1	129	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CUX2	CUX2	130	Lambert_human_TFs	v1.01	CUX2	CUX2	True	True	
+CXXC1	CXXC1	131	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CXXC4	CXXC4	132	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+CXXC5	CXXC5	133	Lambert_human_TFs	v1.01	CXXC5	CXXC5	True	True	
+DACH1	DACH1	134	Lambert_human_TFs	v1.01	DACH1	DACH1	True	True	
+DACH2	DACH2	135	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DBP	DBP	136	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DBX1	DBX1	137	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DBX2	DBX2	138	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DDIT3	DDIT3	139	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DEAF1	DEAF1	140	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DLX1	DLX1	141	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DLX2	DLX2	142	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DLX3	DLX3	143	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DLX4	DLX4	144	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DLX5	DLX5	145	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DLX6	DLX6	146	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DMBX1	DMBX1	147	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DMRT1	DMRT1	148	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DMRT2	DMRT2	149	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DMRT3	DMRT3	150	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DMRTA1	DMRTA1	151	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DMRTA2	DMRTA2	152	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DMRTB1	DMRTB1	153	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DMRTC2	DMRTC2	154	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DMTF1	DMTF1	155	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DNMT1	DNMT1	156	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DNTTIP1	DNTTIP1	157	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DOT1L	DOT1L	158	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DPF1	DPF1	159	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DPF3	DPF3	160	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DPRX	DPRX	161	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DR1	DR1	162	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DRAP1	DRAP1	163	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DRGX	DRGX	164	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DUX1	DUX1	165	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DUX3	DUX3	166	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DUX4	DUX4	167	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DUXA	DUXA	168	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+DZIP1	DZIP1	169	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+E2F1	E2F1	170	Lambert_human_TFs	v1.01	E2F1	E2F1	True	True	
+E2F2	E2F2	171	Lambert_human_TFs	v1.01	E2F2	E2F2	True	True	
+E2F3	E2F3	172	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+E2F4	E2F4	173	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+E2F5	E2F5	174	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+E2F6	E2F6	175	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+E2F7	E2F7	176	Lambert_human_TFs	v1.01	E2F7	E2F7	True	True	
+E2F8	E2F8	177	Lambert_human_TFs	v1.01	E2F8	E2F8	True	True	
+E4F1	E4F1	178	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EBF1	EBF1	179	Lambert_human_TFs	v1.01	EBF1	EBF1	True	True	
+EBF2	EBF2	180	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EBF3	EBF3	181	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EBF4	EBF4	182	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EEA1	EEA1	183	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EGR1	EGR1	184	Lambert_human_TFs	v1.01	EGR1	EGR1	True	True	
+EGR2	EGR2	185	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EGR3	EGR3	186	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EGR4	EGR4	187	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EHF	EHF	188	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ELF1	ELF1	189	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ELF2	ELF2	190	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ELF3	ELF3	191	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ELF4	ELF4	192	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ELF5	ELF5	193	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ELK1	ELK1	194	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ELK3	ELK3	195	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ELK4	ELK4	196	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EMX1	EMX1	197	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EMX2	EMX2	198	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EN1	EN1	199	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EN2	EN2	200	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EOMES	EOMES	201	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EPAS1	EPAS1	202	Lambert_human_TFs	v1.01	EPAS1	EPAS1	True	True	
+ERF	ERF	203	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ERG	ERG	204	Lambert_human_TFs	v1.01	ERG	ERG	True	True	
+ESR1	ESR1	205	Lambert_human_TFs	v1.01	ESR1	ESR1	True	True	
+ESR2	ESR2	206	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ESRRA	ESRRA	207	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ESRRB	ESRRB	208	Lambert_human_TFs	v1.01	ESRRB	ESRRB	True	True	
+ESRRG	ESRRG	209	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ESX1	ESX1	210	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ETS1	ETS1	211	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ETS2	ETS2	212	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ETV1	ETV1	213	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ETV2	ETV2	214	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ETV3	ETV3	215	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ETV3L	ETV3L	216	Lambert_human_TFs	v1.01	ETV3L	ETV3L	True	True	
+ETV4	ETV4	217	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ETV5	ETV5	218	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ETV6	ETV6	219	Lambert_human_TFs	v1.01	ETV6	ETV6	True	True	
+ETV7	ETV7	220	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EVX1	EVX1	221	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+EVX2	EVX2	222	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FAM170A	FAM170A	223	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FAM200B	FAM200B	224	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FBXL19	FBXL19	225	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FERD3L	FERD3L	226	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FEV	FEV	227	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FEZF1	FEZF1	228	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FEZF2	FEZF2	229	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FIGLA	FIGLA	230	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FIZ1	FIZ1	231	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FLI1	FLI1	232	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FLYWCH1	FLYWCH1	233	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOS	FOS	234	Lambert_human_TFs	v1.01	FOS	FOS	True	True	
+FOSB	FOSB	235	Lambert_human_TFs	v1.01	FOSB	FOSB	True	True	
+FOSL1	FOSL1	236	Lambert_human_TFs	v1.01	FOSL1	FOSL1	True	True	
+FOSL2	FOSL2	237	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXA1	FOXA1	238	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXA2	FOXA2	239	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXA3	FOXA3	240	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXB1	FOXB1	241	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXB2	FOXB2	242	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXC1	FOXC1	243	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXC2	FOXC2	244	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXD1	FOXD1	245	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXD2	FOXD2	246	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXD3	FOXD3	247	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXD4	FOXD4	248	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXD4L1	FOXD4L1	249	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXD4L3	FOXD4L3	250	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXD4L4	FOXD4L4	251	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXD4L5	FOXD4L5	252	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXD4L6	FOXD4L6	253	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXE1	FOXE1	254	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXE3	FOXE3	255	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXF1	FOXF1	256	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXF2	FOXF2	257	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXG1	FOXG1	258	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXH1	FOXH1	259	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXI1	FOXI1	260	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXI2	FOXI2	261	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXI3	FOXI3	262	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXJ1	FOXJ1	263	Lambert_human_TFs	v1.01	FOXJ1	FOXJ1	True	True	
+FOXJ2	FOXJ2	264	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXJ3	FOXJ3	265	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXK1	FOXK1	266	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXK2	FOXK2	267	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXL1	FOXL1	268	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXL2	FOXL2	269	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXM1	FOXM1	270	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXN1	FOXN1	271	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXN2	FOXN2	272	Lambert_human_TFs	v1.01	FOXN2	FOXN2	True	True	
+FOXN3	FOXN3	273	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXN4	FOXN4	274	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXO1	FOXO1	275	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXO3	FOXO3	276	Lambert_human_TFs	v1.01	FOXO3	FOXO3	True	True	
+FOXO4	FOXO4	277	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXO6	FOXO6	278	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXP1	FOXP1	279	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXP2	FOXP2	280	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXP3	FOXP3	281	Lambert_human_TFs	v1.01	FOXP3	FOXP3	True	True	
+FOXP4	FOXP4	282	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXQ1	FOXQ1	283	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXR1	FOXR1	284	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXR2	FOXR2	285	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+FOXS1	FOXS1	286	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GABPA	GABPA	287	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GATA1	GATA1	288	Lambert_human_TFs	v1.01	GATA1	GATA1	True	True	
+GATA2	GATA2	289	Lambert_human_TFs	v1.01	GATA2	GATA2	True	True	
+GATA3	GATA3	290	Lambert_human_TFs	v1.01	GATA3	GATA3	True	True	
+GATA4	GATA4	291	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GATA5	GATA5	292	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GATA6	GATA6	293	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GATAD2A	GATAD2A	294	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GATAD2B	GATAD2B	295	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GBX1	GBX1	296	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GBX2	GBX2	297	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GCM1	GCM1	298	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GCM2	GCM2	299	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GFI1	GFI1	300	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GFI1B	GFI1B	301	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GLI1	GLI1	302	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GLI2	GLI2	303	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GLI3	GLI3	304	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GLI4	GLI4	305	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GLIS1	GLIS1	306	Lambert_human_TFs	v1.01	GLIS1	GLIS1	True	True	
+GLIS2	GLIS2	307	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GLIS3	GLIS3	308	Lambert_human_TFs	v1.01	GLIS3	GLIS3	True	True	
+GLMP	GLMP	309	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GLYR1	GLYR1	310	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GMEB1	GMEB1	311	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GMEB2	GMEB2	312	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GPBP1	GPBP1	313	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GPBP1L1	GPBP1L1	314	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GRHL1	GRHL1	315	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GRHL2	GRHL2	316	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GRHL3	GRHL3	317	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GSC	GSC	318	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GSC2	GSC2	319	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GSX1	GSX1	320	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GSX2	GSX2	321	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GTF2B	GTF2B	322	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GTF2I	GTF2I	323	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GTF2IRD1	GTF2IRD1	324	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GTF2IRD2	GTF2IRD2	325	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GTF2IRD2B	GTF2IRD2B	326	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GTF3A	GTF3A	327	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+GZF1	GZF1	328	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HAND1	HAND1	329	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HAND2	HAND2	330	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HBP1	HBP1	331	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HDX	HDX	332	Lambert_human_TFs	v1.01	HDX	HDX	True	True	
+HELT	HELT	333	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HES1	HES1	334	Lambert_human_TFs	v1.01	HES1	HES1	True	True	
+HES2	HES2	335	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HES3	HES3	336	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HES4	HES4	337	Lambert_human_TFs	v1.01	HES4	HES4	True	True	
+HES5	HES5	338	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HES6	HES6	339	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HES7	HES7	340	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HESX1	HESX1	341	Lambert_human_TFs	v1.01	HESX1	HESX1	True	True	
+HEY1	HEY1	342	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HEY2	HEY2	343	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HEYL	HEYL	344	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HHEX	HHEX	345	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HIC1	HIC1	346	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HIC2	HIC2	347	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HIF1A	HIF1A	348	Lambert_human_TFs	v1.01	HIF1A	HIF1A	True	True	
+HIF3A	HIF3A	349	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HINFP	HINFP	350	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HIVEP1	HIVEP1	351	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HIVEP2	HIVEP2	352	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HIVEP3	HIVEP3	353	Lambert_human_TFs	v1.01	HIVEP3	HIVEP3	True	True	
+HKR1	HKR1	354	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HLF	HLF	355	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HLX	HLX	356	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HMBOX1	HMBOX1	357	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HMG20A	HMG20A	358	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HMG20B	HMG20B	359	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HMGA1	HMGA1	360	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HMGA2	HMGA2	361	Lambert_human_TFs	v1.01	HMGA2	HMGA2	True	True	
+HMGN3	HMGN3	362	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HMX1	HMX1	363	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HMX2	HMX2	364	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HMX3	HMX3	365	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HNF1A	HNF1A	366	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HNF1B	HNF1B	367	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HNF4A	HNF4A	368	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HNF4G	HNF4G	369	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOMEZ	HOMEZ	370	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXA1	HOXA1	371	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXA10	HOXA10	372	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXA11	HOXA11	373	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXA13	HOXA13	374	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXA2	HOXA2	375	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXA3	HOXA3	376	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXA4	HOXA4	377	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXA5	HOXA5	378	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXA6	HOXA6	379	Lambert_human_TFs	v1.01	HOXA6	HOXA6	True	True	
+HOXA7	HOXA7	380	Lambert_human_TFs	v1.01	HOXA7	HOXA7	True	True	
+HOXA9	HOXA9	381	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXB1	HOXB1	382	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXB13	HOXB13	383	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXB2	HOXB2	384	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXB3	HOXB3	385	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXB4	HOXB4	386	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXB5	HOXB5	387	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXB6	HOXB6	388	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXB7	HOXB7	389	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXB8	HOXB8	390	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXB9	HOXB9	391	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXC10	HOXC10	392	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXC11	HOXC11	393	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXC12	HOXC12	394	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXC13	HOXC13	395	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXC4	HOXC4	396	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXC5	HOXC5	397	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXC6	HOXC6	398	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXC8	HOXC8	399	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXC9	HOXC9	400	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXD1	HOXD1	401	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXD10	HOXD10	402	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXD11	HOXD11	403	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXD12	HOXD12	404	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXD13	HOXD13	405	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXD3	HOXD3	406	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXD4	HOXD4	407	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXD8	HOXD8	408	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HOXD9	HOXD9	409	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HSF1	HSF1	410	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HSF2	HSF2	411	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HSF4	HSF4	412	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HSF5	HSF5	413	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HSFX1	HSFX1	414	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HSFX2	HSFX2	415	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HSFY1	HSFY1	416	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+HSFY2	HSFY2	417	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IKZF1	IKZF1	418	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IKZF2	IKZF2	419	Lambert_human_TFs	v1.01	IKZF2	IKZF2	True	True	
+IKZF3	IKZF3	420	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IKZF4	IKZF4	421	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IKZF5	IKZF5	422	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+INSM1	INSM1	423	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+INSM2	INSM2	424	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IRF1	IRF1	425	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IRF2	IRF2	426	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IRF3	IRF3	427	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IRF4	IRF4	428	Lambert_human_TFs	v1.01	IRF4	IRF4	True	True	
+IRF5	IRF5	429	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IRF6	IRF6	430	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IRF7	IRF7	431	Lambert_human_TFs	v1.01	IRF7	IRF7	True	True	
+IRF8	IRF8	432	Lambert_human_TFs	v1.01	IRF8	IRF8	True	True	
+IRF9	IRF9	433	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IRX1	IRX1	434	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IRX2	IRX2	435	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IRX3	IRX3	436	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IRX4	IRX4	437	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IRX5	IRX5	438	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+IRX6	IRX6	439	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ISL1	ISL1	440	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ISL2	ISL2	441	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ISX	ISX	442	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+JAZF1	JAZF1	443	Lambert_human_TFs	v1.01	JAZF1	JAZF1	True	True	
+JDP2	JDP2	444	Lambert_human_TFs	v1.01	JDP2	JDP2	True	True	
+JRK	JRK	445	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+JRKL	JRKL	446	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+JUN	JUN	447	Lambert_human_TFs	v1.01	JUN	JUN	True	True	
+JUNB	JUNB	448	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+JUND	JUND	449	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KAT7	KAT7	450	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KCMF1	KCMF1	451	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KCNIP3	KCNIP3	452	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KDM2A	KDM2A	453	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KDM2B	KDM2B	454	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KDM5B	KDM5B	455	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KIN	KIN	456	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KLF1	KLF1	457	Lambert_human_TFs	v1.01	KLF1	KLF1	True	True	
+KLF10	KLF10	458	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KLF11	KLF11	459	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KLF12	KLF12	460	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KLF13	KLF13	461	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KLF14	KLF14	462	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KLF15	KLF15	463	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KLF16	KLF16	464	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KLF17	KLF17	465	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KLF2	KLF2	466	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KLF3	KLF3	467	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KLF4	KLF4	468	Lambert_human_TFs	v1.01	KLF4	KLF4	True	True	
+KLF5	KLF5	469	Lambert_human_TFs	v1.01	KLF5	KLF5	True	True	
+KLF6	KLF6	470	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KLF7	KLF7	471	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KLF8	KLF8	472	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KLF9	KLF9	473	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KMT2A	KMT2A	474	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+KMT2B	KMT2B	475	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+L3MBTL1	L3MBTL1	476	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+L3MBTL3	L3MBTL3	477	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+L3MBTL4	L3MBTL4	478	Lambert_human_TFs	v1.01	L3MBTL4	L3MBTL4	True	True	
+LBX1	LBX1	479	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LBX2	LBX2	480	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LCOR	LCOR	481	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LCORL	LCORL	482	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LEF1	LEF1	483	Lambert_human_TFs	v1.01	LEF1	LEF1	True	True	
+LEUTX	LEUTX	484	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LHX1	LHX1	485	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LHX2	LHX2	486	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LHX3	LHX3	487	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LHX4	LHX4	488	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LHX5	LHX5	489	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LHX6	LHX6	490	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LHX8	LHX8	491	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LHX9	LHX9	492	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LIN28A	LIN28A	493	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LIN28B	LIN28B	494	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LIN54	LIN54	495	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LMX1A	LMX1A	496	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LMX1B	LMX1B	497	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LTF	LTF	498	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+LYL1	LYL1	499	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MAF	MAF	500	Lambert_human_TFs	v1.01	MAF	MAF	True	True	
+MAFA	MAFA	501	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MAFB	MAFB	502	Lambert_human_TFs	v1.01	MAFB	MAFB	True	True	
+MAFF	MAFF	503	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MAFG	MAFG	504	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MAFK	MAFK	505	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MAX	MAX	506	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MAZ	MAZ	507	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MBD1	MBD1	508	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MBD2	MBD2	509	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MBD3	MBD3	510	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MBD4	MBD4	511	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MBD6	MBD6	512	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MBNL2	MBNL2	513	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MECOM	MECOM	514	Lambert_human_TFs	v1.01	MECOM	MECOM	True	True	
+MECP2	MECP2	515	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MEF2A	MEF2A	516	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MEF2B	MEF2B	517	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MEF2C	MEF2C	518	Lambert_human_TFs	v1.01	MEF2C	MEF2C	True	True	
+MEF2D	MEF2D	519	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MEIS1	MEIS1	520	Lambert_human_TFs	v1.01	MEIS1	MEIS1	True	True	
+MEIS2	MEIS2	521	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MEIS3	MEIS3	522	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MEOX1	MEOX1	523	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MEOX2	MEOX2	524	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MESP1	MESP1	525	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MESP2	MESP2	526	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MGA	MGA	527	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MITF	MITF	528	Lambert_human_TFs	v1.01	MITF	MITF	True	True	
+MIXL1	MIXL1	529	Lambert_human_TFs	v1.01	MIXL1	MIXL1	True	True	
+MKX	MKX	530	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MLX	MLX	531	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MLXIP	MLXIP	532	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MLXIPL	MLXIPL	533	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MNT	MNT	534	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MNX1	MNX1	535	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MSANTD1	MSANTD1	536	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MSANTD3	MSANTD3	537	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MSANTD4	MSANTD4	538	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MSC	MSC	539	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MSGN1	MSGN1	540	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MSX1	MSX1	541	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MSX2	MSX2	542	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MTERF1	MTERF1	543	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MTERF2	MTERF2	544	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MTERF3	MTERF3	545	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MTERF4	MTERF4	546	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MTF1	MTF1	547	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MTF2	MTF2	548	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MXD1	MXD1	549	Lambert_human_TFs	v1.01	MXD1	MXD1	True	True	
+MXD3	MXD3	550	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MXD4	MXD4	551	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MXI1	MXI1	552	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MYB	MYB	553	Lambert_human_TFs	v1.01	MYB	MYB	True	True	
+MYBL1	MYBL1	554	Lambert_human_TFs	v1.01	MYBL1	MYBL1	True	True	
+MYBL2	MYBL2	555	Lambert_human_TFs	v1.01	MYBL2	MYBL2	True	True	
+MYC	MYC	556	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MYCL	MYCL	557	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MYCN	MYCN	558	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MYF5	MYF5	559	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MYF6	MYF6	560	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MYNN	MYNN	561	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MYOD1	MYOD1	562	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MYOG	MYOG	563	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MYPOP	MYPOP	564	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MYRF	MYRF	565	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MYRFL	MYRFL	566	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MYSM1	MYSM1	567	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MYT1	MYT1	568	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MYT1L	MYT1L	569	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+MZF1	MZF1	570	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NACC2	NACC2	571	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NAIF1	NAIF1	572	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NANOG	NANOG	573	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NANOGNB	NANOGNB	574	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NANOGP8	NANOGP8	575	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NCOA1	NCOA1	576	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NCOA2	NCOA2	577	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NCOA3	NCOA3	578	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NEUROD1	NEUROD1	579	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NEUROD2	NEUROD2	580	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NEUROD4	NEUROD4	581	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NEUROD6	NEUROD6	582	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NEUROG1	NEUROG1	583	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NEUROG2	NEUROG2	584	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NEUROG3	NEUROG3	585	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFAT5	NFAT5	586	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFATC1	NFATC1	587	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFATC2	NFATC2	588	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFATC3	NFATC3	589	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFATC4	NFATC4	590	Lambert_human_TFs	v1.01	NFATC4	NFATC4	True	True	
+NFE2	NFE2	591	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFE2L1	NFE2L1	592	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFE2L2	NFE2L2	593	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFE2L3	NFE2L3	594	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFE4	NFE4	595	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFIA	NFIA	596	Lambert_human_TFs	v1.01	NFIA	NFIA	True	True	
+NFIB	NFIB	597	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFIC	NFIC	598	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFIL3	NFIL3	599	Lambert_human_TFs	v1.01	NFIL3	NFIL3	True	True	
+NFIX	NFIX	600	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFKB1	NFKB1	601	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFKB2	NFKB2	602	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFX1	NFX1	603	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFXL1	NFXL1	604	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFYA	NFYA	605	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFYB	NFYB	606	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NFYC	NFYC	607	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NHLH1	NHLH1	608	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NHLH2	NHLH2	609	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKRF	NKRF	610	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKX1-1	NKX1-1	611	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKX1-2	NKX1-2	612	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKX2-1	NKX2-1	613	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKX2-2	NKX2-2	614	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKX2-3	NKX2-3	615	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKX2-4	NKX2-4	616	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKX2-5	NKX2-5	617	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKX2-6	NKX2-6	618	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKX2-8	NKX2-8	619	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKX3-1	NKX3-1	620	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKX3-2	NKX3-2	621	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKX6-1	NKX6-1	622	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKX6-2	NKX6-2	623	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NKX6-3	NKX6-3	624	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NME2	NME2	625	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NOBOX	NOBOX	626	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NOTO	NOTO	627	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NPAS1	NPAS1	628	Lambert_human_TFs	v1.01	NPAS1	NPAS1	True	True	
+NPAS2	NPAS2	629	Lambert_human_TFs	v1.01	NPAS2	NPAS2	True	True	
+NPAS3	NPAS3	630	Lambert_human_TFs	v1.01	NPAS3	NPAS3	True	True	
+NPAS4	NPAS4	631	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR0B1	NR0B1	632	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR1D1	NR1D1	633	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR1D2	NR1D2	634	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR1H2	NR1H2	635	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR1H3	NR1H3	636	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR1H4	NR1H4	637	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR1I2	NR1I2	638	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR1I3	NR1I3	639	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR2C1	NR2C1	640	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR2C2	NR2C2	641	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR2E1	NR2E1	642	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR2E3	NR2E3	643	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR2F1	NR2F1	644	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR2F2	NR2F2	645	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR2F6	NR2F6	646	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR3C1	NR3C1	647	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR3C2	NR3C2	648	Lambert_human_TFs	v1.01	NR3C2	NR3C2	True	True	
+NR4A1	NR4A1	649	Lambert_human_TFs	v1.01	NR4A1	NR4A1	True	True	
+NR4A2	NR4A2	650	Lambert_human_TFs	v1.01	NR4A2	NR4A2	True	True	
+NR4A3	NR4A3	651	Lambert_human_TFs	v1.01	NR4A3	NR4A3	True	True	
+NR5A1	NR5A1	652	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR5A2	NR5A2	653	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NR6A1	NR6A1	654	Lambert_human_TFs	v1.01	NR6A1	NR6A1	True	True	
+NRF1	NRF1	655	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+NRL	NRL	656	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+OLIG1	OLIG1	657	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+OLIG2	OLIG2	658	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+OLIG3	OLIG3	659	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ONECUT1	ONECUT1	660	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ONECUT2	ONECUT2	661	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ONECUT3	ONECUT3	662	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+OSR1	OSR1	663	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+OSR2	OSR2	664	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+OTP	OTP	665	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+OTX1	OTX1	666	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+OTX2	OTX2	667	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+OVOL1	OVOL1	668	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+OVOL2	OVOL2	669	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+OVOL3	OVOL3	670	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PA2G4	PA2G4	671	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PATZ1	PATZ1	672	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PAX1	PAX1	673	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PAX2	PAX2	674	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PAX3	PAX3	675	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PAX4	PAX4	676	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PAX5	PAX5	677	Lambert_human_TFs	v1.01	PAX5	PAX5	True	True	
+PAX6	PAX6	678	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PAX7	PAX7	679	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PAX8	PAX8	680	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PAX9	PAX9	681	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PBX1	PBX1	682	Lambert_human_TFs	v1.01	PBX1	PBX1	True	True	
+PBX2	PBX2	683	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PBX3	PBX3	684	Lambert_human_TFs	v1.01	PBX3	PBX3	True	True	
+PBX4	PBX4	685	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PCGF2	PCGF2	686	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PCGF6	PCGF6	687	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PDX1	PDX1	688	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PEG3	PEG3	689	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PGR	PGR	690	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PHF1	PHF1	691	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PHF19	PHF19 	692	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PHF20	PHF20	693	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PHF21A	PHF21A	694	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PHOX2A	PHOX2A	695	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PHOX2B	PHOX2B	696	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PIN1	PIN1	697	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PITX1	PITX1	698	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PITX2	PITX2	699	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PITX3	PITX3	700	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PKNOX1	PKNOX1	701	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PKNOX2	PKNOX2	702	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PLAG1	PLAG1	703	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PLAGL1	PLAGL1	704	Lambert_human_TFs	v1.01	PLAGL1	PLAGL1	True	True	
+PLAGL2	PLAGL2	705	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PLSCR1	PLSCR1	706	Lambert_human_TFs	v1.01	PLSCR1	PLSCR1	True	True	
+POGK	POGK	707	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU1F1	POU1F1	708	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU2AF1	POU2AF1	709	Lambert_human_TFs	v1.01	POU2AF1	POU2AF1	True	True	
+POU2F1	POU2F1	710	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU2F2	POU2F2	711	Lambert_human_TFs	v1.01	POU2F2	POU2F2	True	True	
+POU2F3	POU2F3	712	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU3F1	POU3F1	713	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU3F2	POU3F2	714	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU3F3	POU3F3	715	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU3F4	POU3F4	716	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU4F1	POU4F1	717	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU4F2	POU4F2	718	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU4F3	POU4F3	719	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU5F1	POU5F1	720	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU5F1B	POU5F1B	721	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU5F2	POU5F2	722	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU6F1	POU6F1	723	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+POU6F2	POU6F2	724	Lambert_human_TFs	v1.01	POU6F2	POU6F2	True	True	
+PPARA	PPARA	725	Lambert_human_TFs	v1.01	PPARA	PPARA	True	True	
+PPARD	PPARD	726	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PPARG	PPARG	727	Lambert_human_TFs	v1.01	PPARG	PPARG	True	True	
+PRDM1	PRDM1	728	Lambert_human_TFs	v1.01	PRDM1	PRDM1	True	True	
+PRDM10	PRDM10	729	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PRDM12	PRDM12	730	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PRDM13	PRDM13	731	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PRDM14	PRDM14	732	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PRDM15	PRDM15	733	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PRDM16	PRDM16	734	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PRDM2	PRDM2	735	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PRDM4	PRDM4	736	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PRDM5	PRDM5	737	Lambert_human_TFs	v1.01	PRDM5	PRDM5	True	True	
+PRDM6	PRDM6	738	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PRDM8	PRDM8	739	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PRDM9	PRDM9	740	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PREB	PREB	741	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PRMT3	PRMT3	742	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PROP1	PROP1	743	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PROX1	PROX1	744	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PROX2	PROX2	745	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PRR12	PRR12	746	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PRRX1	PRRX1	747	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PRRX2	PRRX2	748	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PTF1A	PTF1A	749	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PURA	PURA	750	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PURB	PURB	751	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+PURG	PURG	752	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RAG1	RAG1	753	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RARA	RARA	754	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RARB	RARB	755	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RARG	RARG	756	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RAX	RAX	757	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RAX2	RAX2	758	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RBAK	RBAK	759	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RBCK1	RBCK1	760	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RBPJ	RBPJ	761	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RBPJL	RBPJL	762	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RBSN	RBSN	763	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+REL	REL	764	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RELA	RELA	765	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RELB	RELB	766	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+REPIN1	REPIN1	767	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+REST	REST	768	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+REXO4	REXO4	769	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RFX1	RFX1	770	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RFX2	RFX2	771	Lambert_human_TFs	v1.01	RFX2	RFX2	True	True	
+RFX3	RFX3	772	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RFX4	RFX4	773	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RFX5	RFX5	774	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RFX6	RFX6	775	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RFX7	RFX7	776	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RFX8	RFX8	777	Lambert_human_TFs	v1.01	RFX8	RFX8	True	True	
+RHOXF1	RHOXF1	778	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RHOXF2	RHOXF2	779	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RHOXF2B	RHOXF2B	780	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RLF	RLF	781	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RORA	RORA	782	Lambert_human_TFs	v1.01	RORA	RORA	True	True	
+RORB	RORB	783	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RORC	RORC	784	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RREB1	RREB1	785	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RUNX1	RUNX1	786	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RUNX2	RUNX2	787	Lambert_human_TFs	v1.01	RUNX2	RUNX2	True	True	
+RUNX3	RUNX3	788	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RXRA	RXRA	789	Lambert_human_TFs	v1.01	RXRA	RXRA	True	True	
+RXRB	RXRB	790	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+RXRG	RXRG	791	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SAFB	SAFB	792	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SAFB2	SAFB2	793	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SALL1	SALL1	794	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SALL2	SALL2	795	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SALL3	SALL3	796	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SALL4	SALL4	797	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SATB1	SATB1	798	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SATB2	SATB2	799	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SCMH1	SCMH1	800	Lambert_human_TFs	v1.01	SCMH1	SCMH1	True	True	
+SCML4	SCML4	801	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SCRT1	SCRT1	802	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SCRT2	SCRT2	803	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SCX	SCX	804	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SEBOX	SEBOX	805	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SETBP1	SETBP1	806	Lambert_human_TFs	v1.01	SETBP1	SETBP1	True	True	
+SETDB1	SETDB1	807	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SETDB2	SETDB2	808	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SGSM2	SGSM2	809	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SHOX	SHOX	810	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SHOX2	SHOX2	811	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SIM1	SIM1	812	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SIM2	SIM2	813	Lambert_human_TFs	v1.01	SIM2	SIM2	True	True	
+SIX1	SIX1	814	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SIX2	SIX2	815	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SIX3	SIX3	816	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SIX4	SIX4	817	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SIX5	SIX5	818	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SIX6	SIX6	819	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SKI	SKI	820	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SKIL	SKIL	821	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SKOR1	SKOR1	822	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SKOR2	SKOR2	823	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SLC2A4RG	SLC2A4RG	824	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SMAD1	SMAD1	825	Lambert_human_TFs	v1.01	SMAD1	SMAD1	True	True	
+SMAD3	SMAD3	826	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SMAD4	SMAD4	827	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SMAD5	SMAD5	828	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SMAD9	SMAD9	829	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SMYD3	SMYD3	830	Lambert_human_TFs	v1.01	SMYD3	SMYD3	True	True	
+SNAI1	SNAI1	831	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SNAI2	SNAI2	832	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SNAI3	SNAI3	833	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SNAPC2	SNAPC2	834	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SNAPC4	SNAPC4	835	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SNAPC5	SNAPC5	836	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOHLH1	SOHLH1	837	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOHLH2	SOHLH2	838	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SON	SON	839	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX1	SOX1	840	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX10	SOX10	841	Lambert_human_TFs	v1.01	SOX10	SOX10	True	True	
+SOX11	SOX11	842	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX12	SOX12	843	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX13	SOX13	844	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX14	SOX14	845	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX15	SOX15	846	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX17	SOX17	847	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX18	SOX18	848	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX2	SOX2	849	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX21	SOX21	850	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX3	SOX3	851	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX30	SOX30	852	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX4	SOX4	853	Lambert_human_TFs	v1.01	SOX4	SOX4	True	True	
+SOX5	SOX5	854	Lambert_human_TFs	v1.01	SOX5	SOX5	True	True	
+SOX6	SOX6	855	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX7	SOX7	856	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX8	SOX8	857	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SOX9	SOX9	858	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SP1	SP1	859	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SP100	SP100	860	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SP110	SP110	861	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SP140	SP140	862	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SP140L	SP140L	863	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SP2	SP2	864	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SP3	SP3	865	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SP4	SP4	866	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SP5	SP5	867	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SP6	SP6	868	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SP7	SP7	869	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SP8	SP8	870	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SP9	SP9	871	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SPDEF	SPDEF	872	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SPEN	SPEN	873	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SPI1	SPI1	874	Lambert_human_TFs	v1.01	SPI1	SPI1	True	True	
+SPIB	SPIB	875	Lambert_human_TFs	v1.01	SPIB	SPIB	True	True	
+SPIC	SPIC	876	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SPZ1	SPZ1	877	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SRCAP	SRCAP	878	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SREBF1	SREBF1	879	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SREBF2	SREBF2	880	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SRF	SRF	881	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+SRY	SRY	882	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ST18	ST18	883	Lambert_human_TFs	v1.01	ST18	ST18	True	True	
+STAT1	STAT1	884	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+STAT2	STAT2	885	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+STAT3	STAT3	886	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+STAT4	STAT4	887	Lambert_human_TFs	v1.01	STAT4	STAT4	True	True	
+STAT5A	STAT5A	888	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+STAT5B	STAT5B	889	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+STAT6	STAT6	890	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+T	T	891	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TAL1	TAL1	892	Lambert_human_TFs	v1.01	TAL1	TAL1	True	True	
+TAL2	TAL2	893	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBP	TBP	894	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBPL1	TBPL1	895	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBPL2	TBPL2	896	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBR1	TBR1	897	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBX1	TBX1	898	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBX10	TBX10	899	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBX15	TBX15	900	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBX18	TBX18	901	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBX19	TBX19	902	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBX2	TBX2	903	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBX20	TBX20	904	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBX21	TBX21	905	Lambert_human_TFs	v1.01	TBX21	TBX21	True	True	
+TBX22	TBX22	906	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBX3	TBX3	907	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBX4	TBX4	908	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBX5	TBX5	909	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TBX6	TBX6	910	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TCF12	TCF12	911	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TCF15	TCF15	912	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TCF20	TCF20	913	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TCF21	TCF21	914	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TCF23	TCF23	915	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TCF24	TCF24	916	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TCF3	TCF3	917	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TCF4	TCF4	918	Lambert_human_TFs	v1.01	TCF4	TCF4	True	True	
+TCF7	TCF7	919	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TCF7L1	TCF7L1	920	Lambert_human_TFs	v1.01	TCF7L1	TCF7L1	True	True	
+TCF7L2	TCF7L2	921	Lambert_human_TFs	v1.01	TCF7L2	TCF7L2	True	True	
+TCFL5	TCFL5	922	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TEAD1	TEAD1	923	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TEAD2	TEAD2	924	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TEAD3	TEAD3	925	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TEAD4	TEAD4	926	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TEF	TEF	927	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TERB1	TERB1	928	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TERF1	TERF1	929	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TERF2	TERF2	930	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TET1	TET1	931	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TET2	TET2	932	Lambert_human_TFs	v1.01	TET2	TET2	True	True	
+TET3	TET3	933	Lambert_human_TFs	v1.01	TET3	TET3	True	True	
+TFAP2A	TFAP2A	934	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TFAP2B	TFAP2B	935	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TFAP2C	TFAP2C	936	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TFAP2D	TFAP2D	937	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TFAP2E	TFAP2E	938	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TFAP4	TFAP4	939	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TFCP2	TFCP2	940	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TFCP2L1	TFCP2L1	941	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TFDP1	TFDP1	942	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TFDP2	TFDP2	943	Lambert_human_TFs	v1.01	TFDP2	TFDP2	True	True	
+TFDP3	TFDP3	944	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TFE3	TFE3	945	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TFEB	TFEB	946	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TFEC	TFEC	947	Lambert_human_TFs	v1.01	TFEC	TFEC	True	True	
+TGIF1	TGIF1	948	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TGIF2	TGIF2	949	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TGIF2LX	TGIF2LX	950	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TGIF2LY	TGIF2LY	951	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+THAP1	THAP1	952	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+THAP10	THAP10	953	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+THAP11	THAP11	954	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+THAP12	THAP12	955	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+THAP2	THAP2	956	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+THAP3	THAP3	957	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+THAP4	THAP4	958	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+THAP5	THAP5	959	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+THAP6	THAP6	960	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+THAP7	THAP7	961	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+THAP8	THAP8	962	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+THAP9	THAP9	963	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+THRA	THRA	964	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+THRB	THRB	965	Lambert_human_TFs	v1.01	THRB	THRB	True	True	
+THYN1	THYN1	966	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TIGD1	TIGD1	967	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TIGD2	TIGD2	968	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TIGD3	TIGD3	969	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TIGD4	TIGD4	970	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TIGD5	TIGD5	971	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TIGD6	TIGD6	972	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TIGD7	TIGD7	973	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TLX1	TLX1	974	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TLX2	TLX2	975	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TLX3	TLX3	976	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TMF1	TMF1	977	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TOPORS	TOPORS	978	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TP53	TP53	979	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TP63	TP63	980	Lambert_human_TFs	v1.01	TP63	TP63	True	True	
+TP73	TP73	981	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TPRX1	TPRX1	982	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TRAFD1	TRAFD1	983	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TRERF1	TRERF1	984	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TRPS1	TRPS1	985	Lambert_human_TFs	v1.01	TRPS1	TRPS1	True	True	
+TSC22D1	TSC22D1	986	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TSHZ1	TSHZ1	987	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TSHZ2	TSHZ2	988	Lambert_human_TFs	v1.01	TSHZ2	TSHZ2	True	True	
+TSHZ3	TSHZ3	989	Lambert_human_TFs	v1.01	TSHZ3	TSHZ3	True	True	
+TTF1	TTF1	990	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TWIST1	TWIST1	991	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+TWIST2	TWIST2	992	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+UBP1	UBP1	993	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+UNCX	UNCX	994	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+USF1	USF1	995	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+USF2	USF2	996	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+USF3	USF3	997	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+VAX1	VAX1	998	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+VAX2	VAX2	999	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+VDR	VDR	1000	Lambert_human_TFs	v1.01	VDR	VDR	True	True	
+VENTX	VENTX	1001	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+VEZF1	VEZF1	1002	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+VSX1	VSX1	1003	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+VSX2	VSX2	1004	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+WIZ	WIZ	1005	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+WT1	WT1	1006	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+XBP1	XBP1	1007	Lambert_human_TFs	v1.01	XBP1	XBP1	True	True	
+XPA	XPA	1008	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+YBX1	YBX1	1009	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+YBX2	YBX2	1010	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+YBX3	YBX3	1011	Lambert_human_TFs	v1.01	YBX3	YBX3	True	True	
+YY1	YY1	1012	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+YY2	YY2	1013	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBED1	ZBED1	1014	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBED2	ZBED2	1015	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBED3	ZBED3	1016	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBED4	ZBED4	1017	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBED5	ZBED5	1018	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBED6	ZBED6	1019	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBED9	ZBED9	1020	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB1	ZBTB1	1021	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB10	ZBTB10	1022	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB11	ZBTB11	1023	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB12	ZBTB12	1024	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB14	ZBTB14	1025	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB16	ZBTB16	1026	Lambert_human_TFs	v1.01	ZBTB16	ZBTB16	True	True	
+ZBTB17	ZBTB17	1027	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB18	ZBTB18	1028	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB2	ZBTB2	1029	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB20	ZBTB20	1030	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB21	ZBTB21	1031	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB22	ZBTB22	1032	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB24	ZBTB24	1033	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB25	ZBTB25	1034	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB26	ZBTB26	1035	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB3	ZBTB3	1036	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB32	ZBTB32	1037	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB33	ZBTB33	1038	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB34	ZBTB34	1039	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB37	ZBTB37	1040	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB38	ZBTB38	1041	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB39	ZBTB39	1042	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB4	ZBTB4	1043	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB40	ZBTB40	1044	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB41	ZBTB41	1045	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB42	ZBTB42	1046	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB43	ZBTB43	1047	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB44	ZBTB44	1048	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB45	ZBTB45	1049	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB46	ZBTB46	1050	Lambert_human_TFs	v1.01	ZBTB46	ZBTB46	True	True	
+ZBTB47	ZBTB47	1051	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB48	ZBTB48	1052	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB49	ZBTB49	1053	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB5	ZBTB5	1054	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB6	ZBTB6	1055	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB7A	ZBTB7A	1056	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB7B	ZBTB7B	1057	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB7C	ZBTB7C	1058	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB8A	ZBTB8A	1059	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB8B	ZBTB8B	1060	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZBTB9	ZBTB9	1061	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZC3H8	ZC3H8	1062	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZEB1	ZEB1	1063	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZEB2	ZEB2	1064	Lambert_human_TFs	v1.01	ZEB2	ZEB2	True	True	
+ZFAT	ZFAT	1065	Lambert_human_TFs	v1.01	ZFAT	ZFAT	True	True	
+ZFHX2	ZFHX2	1066	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFHX3	ZFHX3	1067	Lambert_human_TFs	v1.01	ZFHX3	ZFHX3	True	True	
+ZFHX4	ZFHX4	1068	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP1	ZFP1	1069	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP14	ZFP14	1070	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP2	ZFP2	1071	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP28	ZFP28	1072	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP3	ZFP3	1073	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP30	ZFP30	1074	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP37	ZFP37	1075	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP41	ZFP41	1076	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP42	ZFP42	1077	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP57	ZFP57	1078	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP62	ZFP62	1079	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP64	ZFP64	1080	Lambert_human_TFs	v1.01	ZFP64	ZFP64	True	True	
+ZFP69	ZFP69	1081	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP69B	ZFP69B	1082	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP82	ZFP82	1083	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP90	ZFP90	1084	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP91	ZFP91	1085	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFP92	ZFP92	1086	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFPM1	ZFPM1	1087	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFPM2	ZFPM2	1088	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFX	ZFX	1089	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZFY	ZFY	1090	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZGLP1	ZGLP1	1091	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZGPAT	ZGPAT	1092	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZHX1	ZHX1	1093	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZHX2	ZHX2	1094	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZHX3	ZHX3	1095	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZIC1	ZIC1	1096	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZIC2	ZIC2	1097	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZIC3	ZIC3	1098	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZIC4	ZIC4	1099	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZIC5	ZIC5	1100	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZIK1	ZIK1	1101	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZIM2	ZIM2	1102	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZIM3	ZIM3	1103	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZKSCAN1	ZKSCAN1	1104	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZKSCAN2	ZKSCAN2	1105	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZKSCAN3	ZKSCAN3	1106	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZKSCAN4	ZKSCAN4	1107	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZKSCAN5	ZKSCAN5	1108	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZKSCAN7	ZKSCAN7	1109	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZKSCAN8	ZKSCAN8	1110	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZMAT1	ZMAT1	1111	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZMAT4	ZMAT4	1112	Lambert_human_TFs	v1.01	ZMAT4	ZMAT4	True	True	
+ZNF10	ZNF10	1113	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF100	ZNF100	1114	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF101	ZNF101	1115	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF107	ZNF107	1116	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF112	ZNF112	1117	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF114	ZNF114	1118	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF117	ZNF117	1119	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF12	ZNF12	1120	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF121	ZNF121	1121	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF124	ZNF124	1122	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF131	ZNF131	1123	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF132	ZNF132	1124	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF133	ZNF133	1125	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF134	ZNF134	1126	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF135	ZNF135	1127	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF136	ZNF136	1128	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF138	ZNF138	1129	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF14	ZNF14	1130	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF140	ZNF140	1131	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF141	ZNF141	1132	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF142	ZNF142	1133	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF143	ZNF143	1134	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF146	ZNF146	1135	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF148	ZNF148	1136	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF154	ZNF154	1137	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF155	ZNF155	1138	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF157	ZNF157	1139	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF16	ZNF16	1140	Lambert_human_TFs	v1.01	ZNF16	ZNF16	True	True	
+ZNF160	ZNF160	1141	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF165	ZNF165	1142	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF169	ZNF169	1143	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF17	ZNF17	1144	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF174	ZNF174	1145	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF175	ZNF175	1146	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF177	ZNF177	1147	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF18	ZNF18	1148	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF180	ZNF180	1149	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF181	ZNF181	1150	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF182	ZNF182	1151	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF184	ZNF184	1152	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF189	ZNF189	1153	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF19	ZNF19	1154	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF195	ZNF195	1155	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF197	ZNF197	1156	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF2	ZNF2	1157	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF20	ZNF20	1158	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF200	ZNF200	1159	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF202	ZNF202	1160	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF205	ZNF205	1161	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF207	ZNF207	1162	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF208	ZNF208	1163	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF211	ZNF211	1164	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF212	ZNF212	1165	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF213	ZNF213	1166	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF214	ZNF214	1167	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF215	ZNF215	1168	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF217	ZNF217	1169	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF219	ZNF219	1170	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF22	ZNF22	1171	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF221	ZNF221	1172	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF222	ZNF222	1173	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF223	ZNF223	1174	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF224	ZNF224	1175	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF225	ZNF225	1176	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF226	ZNF226	1177	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF227	ZNF227	1178	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF229	ZNF229	1179	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF23	ZNF23	1180	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF230	ZNF230	1181	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF232	ZNF232	1182	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF233	ZNF233	1183	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF234	ZNF234	1184	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF235	ZNF235	1185	Lambert_human_TFs	v1.01	ZNF235	ZNF235	True	True	
+ZNF236	ZNF236	1186	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF239	ZNF239	1187	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF24	ZNF24	1188	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF248	ZNF248	1189	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF25	ZNF25	1190	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF250	ZNF250	1191	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF251	ZNF251	1192	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF253	ZNF253	1193	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF254	ZNF254	1194	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF256	ZNF256	1195	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF257	ZNF257	1196	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF26	ZNF26	1197	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF260	ZNF260	1198	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF263	ZNF263	1199	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF264	ZNF264	1200	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF266	ZNF266	1201	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF267	ZNF267	1202	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF268	ZNF268	1203	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF273	ZNF273	1204	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF274	ZNF274	1205	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF275	ZNF275	1206	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF276	ZNF276	1207	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF277	ZNF277	1208	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF28	ZNF28	1209	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF280A	ZNF280A	1210	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF280B	ZNF280B	1211	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF280C	ZNF280C	1212	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF280D	ZNF280D	1213	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF281	ZNF281	1214	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF282	ZNF282	1215	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF283	ZNF283	1216	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF284	ZNF284	1217	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF285	ZNF285	1218	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF286A	ZNF286A	1219	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF286B	ZNF286B	1220	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF287	ZNF287	1221	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF292	ZNF292	1222	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF296	ZNF296	1223	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF3	ZNF3	1224	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF30	ZNF30	1225	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF300	ZNF300	1226	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF302	ZNF302	1227	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF304	ZNF304	1228	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF311	ZNF311	1229	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF316	ZNF316	1230	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF317	ZNF317	1231	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF318	ZNF318	1232	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF319	ZNF319	1233	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF32	ZNF32	1234	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF320	ZNF320	1235	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF322	ZNF322	1236	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF324	ZNF324	1237	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF324B	ZNF324B	1238	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF326	ZNF326	1239	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF329	ZNF329	1240	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF331	ZNF331	1241	Lambert_human_TFs	v1.01	ZNF331	ZNF331	True	True	
+ZNF333	ZNF333	1242	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF334	ZNF334	1243	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF335	ZNF335	1244	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF337	ZNF337	1245	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF33A	ZNF33A	1246	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF33B	ZNF33B	1247	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF34	ZNF34	1248	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF341	ZNF341	1249	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF343	ZNF343	1250	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF345	ZNF345	1251	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF346	ZNF346	1252	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF347	ZNF347	1253	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF35	ZNF35	1254	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF350	ZNF350	1255	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF354A	ZNF354A	1256	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF354B	ZNF354B	1257	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF354C	ZNF354C	1258	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF358	ZNF358	1259	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF362	ZNF362	1260	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF365	ZNF365	1261	Lambert_human_TFs	v1.01	ZNF365	ZNF365	True	True	
+ZNF366	ZNF366	1262	Lambert_human_TFs	v1.01	ZNF366	ZNF366	True	True	
+ZNF367	ZNF367	1263	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF37A	ZNF37A	1264	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF382	ZNF382	1265	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF383	ZNF383	1266	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF384	ZNF384	1267	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF385A	ZNF385A	1268	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF385B	ZNF385B	1269	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF385C	ZNF385C	1270	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF385D	ZNF385D	1271	Lambert_human_TFs	v1.01	ZNF385D	ZNF385D	True	True	
+ZNF391	ZNF391	1272	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF394	ZNF394	1273	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF395	ZNF395	1274	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF396	ZNF396	1275	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF397	ZNF397	1276	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF398	ZNF398	1277	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF404	ZNF404	1278	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF407	ZNF407	1279	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF408	ZNF408	1280	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF41	ZNF41	1281	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF410	ZNF410	1282	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF414	ZNF414	1283	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF415	ZNF415	1284	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF416	ZNF416	1285	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF417	ZNF417	1286	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF418	ZNF418	1287	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF419	ZNF419	1288	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF420	ZNF420	1289	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF423	ZNF423	1290	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF425	ZNF425	1291	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF426	ZNF426	1292	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF428	ZNF428	1293	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF429	ZNF429	1294	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF43	ZNF43	1295	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF430	ZNF430	1296	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF431	ZNF431	1297	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF432	ZNF432	1298	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF433	ZNF433	1299	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF436	ZNF436	1300	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF438	ZNF438	1301	Lambert_human_TFs	v1.01	ZNF438	ZNF438	True	True	
+ZNF439	ZNF439	1302	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF44	ZNF44	1303	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF440	ZNF440	1304	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF441	ZNF441	1305	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF442	ZNF442	1306	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF443	ZNF443	1307	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF444	ZNF444	1308	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF445	ZNF445	1309	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF446	ZNF446	1310	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF449	ZNF449	1311	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF45	ZNF45	1312	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF451	ZNF451	1313	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF454	ZNF454	1314	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF460	ZNF460	1315	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF461	ZNF461	1316	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF462	ZNF462	1317	Lambert_human_TFs	v1.01	ZNF462	ZNF462	True	True	
+ZNF467	ZNF467	1318	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF468	ZNF468	1319	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF469	ZNF469	1320	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF470	ZNF470	1321	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF471	ZNF471	1322	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF473	ZNF473	1323	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF474	ZNF474	1324	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF479	ZNF479	1325	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF48	ZNF48	1326	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF480	ZNF480	1327	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF483	ZNF483	1328	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF484	ZNF484	1329	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF485	ZNF485	1330	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF486	ZNF486	1331	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF487	ZNF487	1332	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF488	ZNF488	1333	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF490	ZNF490	1334	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF491	ZNF491	1335	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF492	ZNF492	1336	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF493	ZNF493	1337	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF496	ZNF496	1338	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF497	ZNF497	1339	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF500	ZNF500	1340	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF501	ZNF501	1341	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF502	ZNF502	1342	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF503	ZNF503	1343	Lambert_human_TFs	v1.01	ZNF503	ZNF503	True	True	
+ZNF506	ZNF506	1344	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF507	ZNF507	1345	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF510	ZNF510	1346	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF511	ZNF511	1347	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF512	ZNF512	1348	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF512B	ZNF512B	1349	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF513	ZNF513	1350	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF514	ZNF514	1351	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF516	ZNF516	1352	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF517	ZNF517	1353	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF518A	ZNF518A	1354	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF518B	ZNF518B	1355	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF519	ZNF519	1356	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF521	ZNF521	1357	Lambert_human_TFs	v1.01	ZNF521	ZNF521	True	True	
+ZNF524	ZNF524	1358	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF525	ZNF525	1359	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF526	ZNF526	1360	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF527	ZNF527	1361	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF528	ZNF528	1362	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF529	ZNF529	1363	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF530	ZNF530	1364	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF532	ZNF532	1365	Lambert_human_TFs	v1.01	ZNF532	ZNF532	True	True	
+ZNF534	ZNF534	1366	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF536	ZNF536	1367	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF540	ZNF540	1368	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF541	ZNF541	1369	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF543	ZNF543	1370	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF544	ZNF544	1371	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF546	ZNF546	1372	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF547	ZNF547	1373	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF548	ZNF548	1374	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF549	ZNF549	1375	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF550	ZNF550	1376	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF551	ZNF551	1377	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF552	ZNF552	1378	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF554	ZNF554	1379	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF555	ZNF555	1380	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF556	ZNF556	1381	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF557	ZNF557	1382	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF558	ZNF558	1383	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF559	ZNF559	1384	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF560	ZNF560	1385	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF561	ZNF561	1386	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF562	ZNF562	1387	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF563	ZNF563	1388	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF564	ZNF564	1389	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF565	ZNF565	1390	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF566	ZNF566	1391	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF567	ZNF567	1392	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF568	ZNF568	1393	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF569	ZNF569	1394	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF57	ZNF57	1395	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF570	ZNF570	1396	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF571	ZNF571	1397	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF572	ZNF572	1398	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF573	ZNF573	1399	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF574	ZNF574	1400	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF575	ZNF575	1401	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF576	ZNF576	1402	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF577	ZNF577	1403	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF578	ZNF578	1404	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF579	ZNF579	1405	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF580	ZNF580	1406	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF581	ZNF581	1407	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF582	ZNF582	1408	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF583	ZNF583	1409	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF584	ZNF584	1410	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF585A	ZNF585A	1411	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF585B	ZNF585B	1412	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF586	ZNF586	1413	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF587	ZNF587	1414	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF587B	ZNF587B	1415	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF589	ZNF589	1416	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF592	ZNF592	1417	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF594	ZNF594	1418	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF595	ZNF595	1419	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF596	ZNF596	1420	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF597	ZNF597	1421	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF598	ZNF598	1422	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF599	ZNF599	1423	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF600	ZNF600	1424	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF605	ZNF605	1425	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF606	ZNF606	1426	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF607	ZNF607	1427	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF608	ZNF608	1428	Lambert_human_TFs	v1.01	ZNF608	ZNF608	True	True	
+ZNF609	ZNF609	1429	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF610	ZNF610	1430	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF611	ZNF611	1431	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF613	ZNF613	1432	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF614	ZNF614	1433	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF615	ZNF615	1434	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF616	ZNF616	1435	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF618	ZNF618	1436	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF619	ZNF619	1437	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF620	ZNF620	1438	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF621	ZNF621	1439	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF623	ZNF623	1440	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF624	ZNF624	1441	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF625	ZNF625	1442	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF626	ZNF626	1443	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF627	ZNF627	1444	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF628	ZNF628	1445	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF629	ZNF629	1446	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF630	ZNF630	1447	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF639	ZNF639	1448	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF641	ZNF641	1449	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF644	ZNF644	1450	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF645	ZNF645	1451	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF646	ZNF646	1452	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF648	ZNF648	1453	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF649	ZNF649	1454	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF652	ZNF652	1455	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF653	ZNF653	1456	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF654	ZNF654	1457	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF655	ZNF655	1458	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF658	ZNF658	1459	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF66	ZNF66	1460	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF660	ZNF660	1461	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF662	ZNF662	1462	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF664	ZNF664	1463	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF665	ZNF665	1464	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF667	ZNF667	1465	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF668	ZNF668	1466	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF669	ZNF669	1467	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF670	ZNF670	1468	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF671	ZNF671	1469	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF672	ZNF672	1470	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF674	ZNF674	1471	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF675	ZNF675	1472	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF676	ZNF676	1473	Lambert_human_TFs	v1.01	ZNF676	ZNF676	True	True	
+ZNF677	ZNF677	1474	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF678	ZNF678	1475	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF679	ZNF679	1476	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF680	ZNF680	1477	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF681	ZNF681	1478	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF682	ZNF682	1479	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF683	ZNF683	1480	Lambert_human_TFs	v1.01	ZNF683	ZNF683	True	True	
+ZNF684	ZNF684	1481	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF687	ZNF687	1482	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF688	ZNF688	1483	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF689	ZNF689	1484	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF69	ZNF69	1485	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF691	ZNF691	1486	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF692	ZNF692	1487	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF695	ZNF695	1488	Lambert_human_TFs	v1.01	ZNF695	ZNF695	True	True	
+ZNF696	ZNF696	1489	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF697	ZNF697	1490	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF699	ZNF699	1491	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF7	ZNF7	1492	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF70	ZNF70	1493	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF700	ZNF700	1494	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF701	ZNF701	1495	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF703	ZNF703	1496	Lambert_human_TFs	v1.01	ZNF703	ZNF703	True	True	
+ZNF704	ZNF704	1497	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF705A	ZNF705A	1498	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF705B	ZNF705B	1499	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF705D	ZNF705D	1500	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF705E	ZNF705E	1501	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF705G	ZNF705G	1502	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF706	ZNF706	1503	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF707	ZNF707	1504	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF708	ZNF708	1505	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF709	ZNF709	1506	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF71	ZNF71	1507	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF710	ZNF710	1508	Lambert_human_TFs	v1.01	ZNF710	ZNF710	True	True	
+ZNF711	ZNF711	1509	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF713	ZNF713	1510	Lambert_human_TFs	v1.01	ZNF713	ZNF713	True	True	
+ZNF714	ZNF714	1511	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF716	ZNF716	1512	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF717	ZNF717	1513	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF718	ZNF718	1514	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF721	ZNF721	1515	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF724	ZNF724	1516	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF726	ZNF726	1517	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF727	ZNF727	1518	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF728	ZNF728	1519	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF729	ZNF729	1520	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF730	ZNF730	1521	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF732	ZNF732	1522	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF735	ZNF735	1523	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF736	ZNF736	1524	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF737	ZNF737	1525	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF74	ZNF74	1526	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF740	ZNF740	1527	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF746	ZNF746	1528	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF747	ZNF747	1529	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF749	ZNF749	1530	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF750	ZNF750	1531	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF75A	ZNF75A	1532	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF75D	ZNF75D	1533	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF76	ZNF76	1534	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF761	ZNF761	1535	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF763	ZNF763	1536	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF764	ZNF764	1537	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF765	ZNF765	1538	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF766	ZNF766	1539	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF768	ZNF768	1540	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF77	ZNF77	1541	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF770	ZNF770	1542	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF771	ZNF771	1543	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF772	ZNF772	1544	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF773	ZNF773	1545	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF774	ZNF774	1546	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF775	ZNF775	1547	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF776	ZNF776	1548	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF777	ZNF777	1549	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF778	ZNF778	1550	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF780A	ZNF780A	1551	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF780B	ZNF780B	1552	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF781	ZNF781	1553	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF782	ZNF782	1554	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF783	ZNF783	1555	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF784	ZNF784	1556	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF785	ZNF785	1557	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF786	ZNF786	1558	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF787	ZNF787	1559	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF788	ZNF788	1560	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF789	ZNF789	1561	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF79	ZNF79	1562	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF790	ZNF790	1563	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF791	ZNF791	1564	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF792	ZNF792	1565	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF793	ZNF793	1566	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF799	ZNF799	1567	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF8	ZNF8	1568	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF80	ZNF80	1569	Lambert_human_TFs	v1.01	ZNF80	ZNF80	True	True	
+ZNF800	ZNF800	1570	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF804A	ZNF804A	1571	Lambert_human_TFs	v1.01	ZNF804A	ZNF804A	True	True	
+ZNF804B	ZNF804B	1572	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF805	ZNF805	1573	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF808	ZNF808	1574	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF81	ZNF81	1575	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF813	ZNF813	1576	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF814	ZNF814	1577	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF816	ZNF816	1578	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF821	ZNF821	1579	Lambert_human_TFs	v1.01	ZNF821	ZNF821	True	True	
+ZNF823	ZNF823	1580	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF827	ZNF827	1581	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF829	ZNF829	1582	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF83	ZNF83	1583	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF830	ZNF830	1584	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF831	ZNF831	1585	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF835	ZNF835	1586	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF836	ZNF836	1587	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF837	ZNF837	1588	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF84	ZNF84	1589	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF841	ZNF841	1590	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF843	ZNF843	1591	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF844	ZNF844	1592	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF845	ZNF845	1593	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF846	ZNF846	1594	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF85	ZNF85	1595	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF850	ZNF850	1596	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF852	ZNF852	1597	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF853	ZNF853	1598	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF860	ZNF860	1599	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF865	ZNF865	1600	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF878	ZNF878	1601	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF879	ZNF879	1602	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF880	ZNF880	1603	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF883	ZNF883	1604	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF888	ZNF888	1605	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF891	ZNF891	1606	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF90	ZNF90	1607	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF91	ZNF91	1608	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF92	ZNF92	1609	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF93	ZNF93	1610	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF98	ZNF98	1611	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZNF99	ZNF99	1612	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN1	ZSCAN1	1613	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN10	ZSCAN10	1614	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN12	ZSCAN12	1615	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN16	ZSCAN16	1616	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN18	ZSCAN18	1617	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN2	ZSCAN2	1618	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN20	ZSCAN20	1619	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN21	ZSCAN21	1620	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN22	ZSCAN22	1621	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN23	ZSCAN23	1622	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN25	ZSCAN25	1623	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN26	ZSCAN26	1624	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN29	ZSCAN29	1625	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN30	ZSCAN30	1626	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN31	ZSCAN31	1627	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN32	ZSCAN32	1628	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN4	ZSCAN4	1629	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN5A	ZSCAN5A	1630	Lambert_human_TFs	v1.01	ZSCAN5A	ZSCAN5A	True	True	
+ZSCAN5B	ZSCAN5B	1631	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN5C	ZSCAN5C	1632	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZSCAN9	ZSCAN9	1633	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZUFSP	ZUFSP	1634	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZXDA	ZXDA	1635	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZXDB	ZXDB	1636	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZXDC	ZXDC	1637	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe
+ZZZ3	ZZZ3	1638	Lambert_human_TFs	v1.01			False	False	not_present_in_current_rna_gene_universe

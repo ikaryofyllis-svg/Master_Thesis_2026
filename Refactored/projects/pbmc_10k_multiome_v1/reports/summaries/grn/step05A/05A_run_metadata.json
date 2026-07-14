@@ -1,0 +1,8 @@
+{
+  "created_at_utc": "2026-07-13T13:55:15.315709+00:00",
+  "python_version": "3.11.15 | packaged by Anaconda, Inc. | (main, Jun 11 2026, 15:12:53) [MSC v.1942 64 bit (AMD64)]",
+  "pandas_version": "2.3.3",
+  "anndata_version": "0.12.16",
+  "project_id": "pbmc_10k_multiome_v1",
+  "script_status": "completed"
+}

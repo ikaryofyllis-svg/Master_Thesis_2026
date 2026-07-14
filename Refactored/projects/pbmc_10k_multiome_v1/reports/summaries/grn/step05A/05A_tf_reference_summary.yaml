@@ -1,0 +1,60 @@
+step: 05A
+script_name: 05A_paired_prepare_human_tf_reference.py
+created_at_utc: '2026-07-13T13:55:15.295858+00:00'
+project:
+  project_id: pbmc_10k_multiome_v1
+  project_root: C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\Refactored\projects\pbmc_10k_multiome_v1
+inputs:
+  rna_filtered_path: C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\Refactored\projects\pbmc_10k_multiome_v1\data\processed\final_after_atac_qc\pbmc_multiome_rna_final_after_atac_qc.h5ad
+  atac_filtered_path: C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\Refactored\projects\pbmc_10k_multiome_v1\data\processed\final_after_atac_qc\pbmc_multiome_atac_final_after_atac_qc.h5ad
+  multiome_filtered_path: C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\Refactored\projects\pbmc_10k_multiome_v1\data\processed\final_after_atac_qc\pbmc_multiome_final_after_atac_qc.h5ad
+expected_dimensions:
+  n_cells: 7566
+  rna_n_vars: 3000
+  atac_n_vars: 143887
+  multiome_n_vars: 180488
+observed_dimensions:
+  rna:
+    n_obs: 7566
+    n_vars: 3000
+  atac:
+    n_obs: 7566
+    n_vars: 143887
+  multiome:
+    n_obs: 7566
+    n_vars: 180488
+paired_cell_validation:
+  rna_atac_same_order: true
+  rna_multiome_same_order: true
+  atac_multiome_same_order: true
+rna_gene_universe:
+  source: rna.var_names
+  var_names_look_like_ensembl: false
+  n_rna_features: 3000
+  n_missing_gene_symbols: 0
+  n_additional_duplicated_symbols: 0
+tf_reference:
+  name: Lambert human TF catalogue
+  version: v1.01
+  tf_names_url: https://humantfs.ccbr.utoronto.ca/download/v_1.01/TF_names_v_1.01.txt
+  tf_database_url: https://humantfs.ccbr.utoronto.ca/download/v_1.01/DatabaseExtract_v_1.01.csv
+  tf_names_path: C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\Refactored\projects\pbmc_10k_multiome_v1\data\external\references\transcription_factors\human_tfs_lambert_v1.01\TF_names_v_1.01.txt
+  tf_database_path: C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\Refactored\projects\pbmc_10k_multiome_v1\data\external\references\transcription_factors\human_tfs_lambert_v1.01\DatabaseExtract_v_1.01.csv
+  tf_names_sha256: 52fc1dab0d02b3a28b3bbe45232fceb2f85ebafd23631f621c5efc8bc91767c2
+  tf_database_sha256: 5438940ddef71b6fb8017af609e7599338159f47e2e03ca0439dc0711a8d4cc9
+tf_mapping:
+  n_catalogue_tfs: 1639
+  n_tfs_present_in_rna: 166
+  n_tfs_absent_from_rna: 1473
+  tf_retention_fraction: 0.10128126906650396
+  n_preliminary_tf_nodes: 166
+outputs:
+  input_audit: C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\Refactored\projects\pbmc_10k_multiome_v1\reports\tables\grn\step05A\05A_paired_input_audit.tsv
+  tf_catalogue_clean: C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\Refactored\projects\pbmc_10k_multiome_v1\reports\tables\grn\step05A\05A_human_tf_catalogue_clean.tsv
+  tf_rna_mapping: C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\Refactored\projects\pbmc_10k_multiome_v1\reports\tables\grn\step05A\05A_tf_to_rna_mapping.tsv
+  tf_node_index: C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\Refactored\projects\pbmc_10k_multiome_v1\reports\tables\grn\step05A\05A_tf_node_index.tsv
+  tf_exclusion_report: C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\Refactored\projects\pbmc_10k_multiome_v1\reports\tables\grn\step05A\05A_tf_exclusion_report.tsv
+  summary_yaml: C:\Users\jkary\Desktop\bioinformatics\MSc thesis\Msc_Thesis_Project\Refactored\projects\pbmc_10k_multiome_v1\reports\summaries\grn\step05A\05A_tf_reference_summary.yaml
+important_note: The current TF node list is preliminary. It has been filtered by presence
+  in the current RNA gene universe but has not yet been filtered using GENCODE annotation,
+  TSS availability or JASPAR motif availability.
