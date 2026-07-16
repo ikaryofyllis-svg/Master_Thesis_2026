@@ -322,16 +322,65 @@ def close_backed_anndata(adata: ad.AnnData) -> None:
 
 def json_safe(value: Any) -> Any:
     """
-    Convert common NumPy and pandas scalar types into values
-    that can be serialized safely to JSON or YAML.
+    Recursively convert values into JSON/YAML-safe Python
+    objects.
+
+    Handles:
+    - pathlib.Path,
+    - NumPy scalar values,
+    - NumPy arrays,
+    - pandas Index and Series,
+    - dictionaries,
+    - lists and tuples,
+    - scalar missing values.
     """
-    if isinstance(value, np.generic):
-        return value.item()
+
+    if value is None:
+        return None
 
     if isinstance(value, Path):
         return str(value)
 
-    if pd.isna(value):
+    if isinstance(value, np.generic):
+        return value.item()
+
+    if isinstance(value, np.ndarray):
+        return [
+            json_safe(item)
+            for item in value.tolist()
+        ]
+
+    if isinstance(value, pd.Index):
+        return [
+            json_safe(item)
+            for item in value.tolist()
+        ]
+
+    if isinstance(value, pd.Series):
+        return [
+            json_safe(item)
+            for item in value.tolist()
+        ]
+
+    if isinstance(value, dict):
+        return {
+            str(key): json_safe(item)
+            for key, item in value.items()
+        }
+
+    if isinstance(value, (list, tuple, set)):
+        return [
+            json_safe(item)
+            for item in value
+        ]
+
+    # Only scalar values should reach pd.isna().
+    try:
+        missing = pd.isna(value)
+    except (TypeError, ValueError):
+        missing = False
+
+    if isinstance(missing, (bool, np.bool_)) and missing:
         return None
 
     return value
@@ -1481,16 +1530,31 @@ if not rna_grn.var_names.is_unique:
 print("\nWriting official GRN RNA object:")
 print(rna_grn_output_path)
 
+temporary_output_path = (
+    rna_grn_output_path.with_suffix(
+        rna_grn_output_path.suffix + ".tmp"
+    )
+)
+
+if temporary_output_path.exists():
+    temporary_output_path.unlink()
+
 rna_grn.write_h5ad(
-    rna_grn_output_path,
+    temporary_output_path,
     compression="gzip",
 )
 
 validate_file(
-    path=rna_grn_output_path,
-    label="Official full-gene final-cell RNA H5AD",
+    path=temporary_output_path,
+    label="Temporary full-gene final-cell RNA H5AD",
 )
 
+temporary_output_sha256 = sha256_file(
+    temporary_output_path
+)
+
+print("\nTemporary output SHA-256:")
+print(temporary_output_sha256)
 
 # ============================================================
 # 29. Reopen and validate serialized H5AD
@@ -1499,7 +1563,7 @@ validate_file(
 print("\nReopening written H5AD for serialization validation.")
 
 rna_grn_check = ad.read_h5ad(
-    rna_grn_output_path,
+    temporary_output_path,
     backed="r",
 )
 
@@ -1723,9 +1787,7 @@ summary = {
             int(rna_grn.n_obs),
             int(rna_grn.n_vars),
         ],
-        "sha256": sha256_file(
-            rna_grn_output_path
-        ),
+        "sha256": temporary_output_sha256,
     },
     "reports": {
         "input_audit": str(
@@ -1782,9 +1844,7 @@ run_metadata = {
     "scipy_version": __import__("scipy").__version__,
     "anndata_version": ad.__version__,
     "output_path": str(rna_grn_output_path),
-    "output_sha256": sha256_file(
-        rna_grn_output_path
-    ),
+    "output_sha256": temporary_output_sha256,
     "script_status": "completed",
 }
 
@@ -1798,7 +1858,30 @@ with run_metadata_path.open(
         indent=2,
         ensure_ascii=False,
     )
+# ============================================================
+# Promote validated temporary H5AD to official output
+# ============================================================
 
+if rna_grn_output_path.exists():
+    if overwrite_output:
+        rna_grn_output_path.unlink()
+    else:
+        raise FileExistsError(
+            "The official output appeared during execution:\n"
+            f"{rna_grn_output_path}"
+        )
+
+temporary_output_path.replace(
+    rna_grn_output_path
+)
+
+validate_file(
+    path=rna_grn_output_path,
+    label="Official full-gene final-cell RNA H5AD",
+)
+
+print("\nTemporary H5AD promoted to official output:")
+print(rna_grn_output_path)
 
 # ============================================================
 # 33. Validate all written outputs
